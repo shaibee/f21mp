@@ -1,0 +1,1905 @@
+[ori] (1): Previously, on Heroes...
+[com] (1): Previously, on Heroes.
+
+[ori] (2): Tell me where I can find the virus so I can stop it.
+[com] (2): Tell me where I can find the virus.
+
+[ori] (3): Primatech paper, Odessa, Texas.
+[com] (3): Primatech paper, Odessa.
+
+[ori] (4): Texas.
+[com] (4): Texas onTexas.
+
+[ori] (5): Wait!
+[com] (5): Wait.
+
+[ori] (6): I was there when your father first brought you in,
+[com] (6): I was there when your father first brought you.
+
+[ori] (7): And then they started the testing.
+[com] (7): And then they started.
+
+[ori] (8): My father would never let that happen.
+[com] (8): My father would never let.
+
+[ori] (9): We need to be heroes, like dad.
+[com] (9): We need to be heroes.
+
+[ori] (10): Being a hero is what got your father killed.
+[com] (10): Being a hero is what got your father.
+
+[ori] (11): You're gonna help me get back my dad's medal?
+[com] (11): You ' gon gon na help me get back my dad's medal.
+
+[ori] (12): As long as you stay out of the way.
+[com] (12): As long as you stay out.
+
+[ori] (13): Anything crazy happens, I need you safe.
+[com] (13): Anything crazy I need safe.
+
+[ori] (14): I'm taking my sister!
+[com] (14): I 'm taking my sister.
+
+[ori] (15): Gabriel!
+[com] (15): Gabriel.
+
+[ori] (16): I just wanna help you.
+[com] (16): I w wan help.
+
+[ori] (17): You have done that, and so much more.
+[com] (17): You have done, more.
+
+[ori] (18): Why am I not dead?
+[com] (18): Why am I not dead.
+
+[ori] (19): You would have been, if not for an infusion of your daughter's blood.
+[com] (19): You would have been a infusion of your daughter's blood.
+
+[ori] (20): Your recovery has proven this blood has tremendous regenerative properties.
+[com] (20): Your recovery has tremendous this blood.
+
+[ori] (21): Kidnapped me and murdered my father.
+[com] (21): Kidnapped and murdered my father.
+
+[ori] (22): I'll show everyone exactly what I can do.
+[com] (22): I 'll show everyone I can do.
+
+[ori] (23): Once the secret's out, you won't be able to touch me or my family.
+[com] (23): Once, you won't be able to touch me or my family.
+
+[ori] (24): I think I found the cure, Niki.
+[com] (24): I think I found, Niki.
+
+[ori] (25): I'll bring it to you on the next flight.
+[com] (25): I 'll bring to you on the flight.
+
+[ori] (26): - Mohinder. - Sylar?
+[com] (26):  - Sylar.
+
+[ori] (27): I convinced the babysitter to take the night off.
+[com] (27): I convinced to take the night off.
+
+[ori] (28): Welcome home, Dr. Suresh.
+[com] (28): Welcome home, Suresh.
+
+[ori] (29): What happened to your nose?
+[com] (29): What happened.
+
+[ori] (30): Where's Molly?
+[com] (30): Where's Molly.
+
+[ori] (31): Asleep.
+[com] (31): Asabella.
+
+[ori] (32): Keep your voice down.
+[com] (32): Keep your voice.
+
+[ori] (33): We don't wanna wake her.
+[com] (33): We don't wanna wake.
+
+[ori] (34): What is it you want?
+[com] (34): What is it you want.
+
+[ori] (35): Breakfast?
+[com] (35): Breakfast.
+
+[ori] (36): I hope you don't mind.
+[com] (36): I hope you don't.
+
+[ori] (37): Maya cooked.
+[com] (37): Maya cooked.
+
+[ori] (38): She makes the most amazing Chilaquiles.
+[com] (38): She makes the Chilaquiles.
+
+[ori] (39): It's such an honor to meet you.
+[com] (39): It's an honor to meet.
+
+[ori] (40): He's the one that should be honored.
+[com] (40): He's the one should be honored.
+
+[ori] (41): Maya came all the way from South America just to be here, Mohinder.
+[com] (41): Maya came the way from South America.
+
+[ori] (42): Really?
+[com] (42): Really.
+
+[ori] (43): Why's that?
+[com] (43): Why's.
+
+[ori] (44): I read your father's book.
+[com] (44): I read your father.
+
+[ori] (45): He has so many answers.
+[com] (45): He has so answers.
+
+[ori] (46): But I have so many more questions.
+[com] (46): But I have more questions.
+
+[ori] (47): Sit.
+[com] (47): Sit.
+
+[ori] (48): Eat.
+[com] (48): Eat.
+
+[ori] (49): I'm starving.
+[com] (49): I 'm starving.
+
+[ori] (50): When Gabriel told me you two knew each other,
+[com] (50): When Gabriel told you two knew each other
+
+[ori] (51): I knew fate brought us together.
+[com] (51): I knew fate brought together.
+
+[ori] (52): Gabriel.
+[com] (52): Gabriel.
+
+[ori] (53): You mean Sylar, don't you?
+[com] (53): You mean Sylar don't you.
+
+[ori] (54): You do know this man's a killer.
+[com] (54): You do know this man's.
+
+[ori] (55): Yes. He told me.
+[com] (55): Yes. He told
+
+[ori] (56): He did?
+[com] (56): He did.
+
+[ori] (57): And I am ashamed to admit that...
+[com] (57): And I am ashamed.
+
+[ori] (58): I have taken lives as well.
+[com] (58): I have taken lives.
+
+[ori] (59): I have this sickness that comes out of me.
+[com] (59): I have this sickness.
+
+[ori] (60): It poisons everyone around.
+[com] (60): It misdemeanor everyone.
+
+[ori] (61): I need your help, Dr. Suresh.
+[com] (61): I need your help, Suresh.
+
+[ori] (62): So that's what this is about.
+[com] (62): So's what this is about.
+
+[ori] (63): We both need your help.
+[com] (63): We need your help.
+
+[ori] (64): Why's that?
+[com] (64): Why's.
+
+[ori] (65): I was reading about your lab work on the laptop- The Shanti virus.
+[com] (65): I was reading about your lab work on the Shanti virus.
+
+[ori] (66): Does it really take away a person's abilities?
+[com] (66): Does it take away.
+
+[ori] (67): It also has the unfortunate side effect of killing the person infected.
+[com] (67): It has the unfortunate side effect.
+
+[ori] (68): Is that why your powers are gone?
+[com] (68): Is that your powers are gone.
+
+[ori] (69): That you have this virus?
+[com] (69): That you have this virus.
+
+[ori] (70): Gabriel...
+[com] (70): Gabriel.
+
+[ori] (71): What are you doing?
+[com] (71): What are you doing.
+
+[ori] (72): Maya, I need you to stay calm.
+[com] (72): Maya, I need to stay calm.
+
+[ori] (73): Apparently, Mohinder, your blood is the answer to my ills.
+[com] (73): Apparently, Mohinder, your blood is the answer.
+
+[ori] (74): No. No, not always.
+[com] (74): No. No not always.
+
+[ori] (75): Trust me, there are many different strains of the virus.
+[com] (75): Trust me, there are many different strains of the virus.
+
+[ori] (76): But when you mix it with a certain cheerleader's blood, it changes, doesn't it?
+[com] (76): But when you mix with a cheerleader's blood doesn't it.
+
+[ori] (77): And it heals anything. Isn't that right, doctor?
+[com] (77): And it heals anything.AGE't that doctor.
+
+[ori] (78): You lied to me?
+[com] (78): You lied.
+
+[ori] (79): I don't know what he told you, but he is not my friend.
+[com] (79): I don't know, but he is not.
+
+[ori] (80): - He's a monster. - Maya?
+[com] (80): - He's a monster.
+
+[ori] (81): Do not spoil this!
+[com] (81): Do not spoil this.
+
+[ori] (82): My brother was right not to trust you.
+[com] (82): My brother was right not.
+
+[ori] (83): Do you really wanna kill Dr. Suresh, the one man who can save you?
+[com] (83): Do w wan kill Suresh.
+
+[ori] (84): Molly!
+[com] (84): Molly.
+
+[ori] (85): And she dies...
+[com] (85): And she dies.
+
+[ori] (86): A sweet, innocent little girl.
+[com] (86): A sweet, innocent little girl.
+
+[ori] (87): Stop it, Maya!
+[com] (87): Stop it, Maya.
+
+[ori] (88): Now!
+[com] (88): Now.
+
+[ori] (89): All right.
+[com] (89): All right.
+
+[ori] (90): I'll help you, but not here.
+[com] (90): I 'll help but not here.
+
+[ori] (91): We need to get to my lab.
+[com] (91): We need to get.
+
+[ori] (92): Lead the way... Doctor.
+[com] (92): Lead the way.
+
+[ori] (93): Chapter Eleven "Powerless"
+[com] (93): Chapter Eleven "Powerless"
+
+[ori] (94): I suppose I have you to thank for my early release from jail.
+[com] (94): I suppose I have to thank for my early release.
+
+[ori] (95): - You didn't kill anyone, mom. - But Adam Monroe did. Again.
+[com] (95): - You didn't kill anyone, mom.
+
+[ori] (96): Victoria Pratt is dead.
+[com] (96): Victoria Pratt is dead.
+
+[ori] (97): I found her body at her place in Maine.
+[com] (97): I found her body in Maine.
+
+[ori] (98): Adam signed it with one of these.
+[com] (98): Adam signed with one.
+
+[ori] (99): Where's Adam going next?
+[com] (99): Where's Adam going.
+
+[ori] (100): How long are we gonna suffer for your sins?
+[com] (100): How long are we gon gon na suffer.
+
+[ori] (101): For your generation's deeds?
+[com] (101): For your generation's deeds.
+
+[ori] (102): Adam wanted revenge on those of us who betrayed him.
+[com] (102): Adam wanted revenge who betrayed.
+
+[ori] (103): It's done now.
+[com] (103): It's done.
+
+[ori] (104): Let it go, Nathan.
+[com] (104): Let it go.
+
+[ori] (105): It's over.
+[com] (105): It's over.
+
+[ori] (106): Peter's alive.
+[com] (106): Peter alive.
+
+[ori] (107): Mom.
+[com] (107): Mom.
+
+[ori] (108): And he's working with Adam.
+[com] (108): And he's working with Adam
+
+[ori] (109): They both killed Victoria Pratt.
+[com] (109): They killed Victoria Pratt.
+
+[ori] (110): Their fingerprints are all over the murder scene.
+[com] (110): Their fingerprints are over the murder scene.
+
+[ori] (111): It all went so wrong.
+[com] (111): It went so wrong.
+
+[ori] (112): 30 years ago, a group of us came together to change the world, to fix it.
+[com] (112): 30 years ago, a group came to change the world.
+
+[ori] (113): And Adam...
+[com] (113): And Adam.
+
+[ori] (114): Had a perspective on history that was compelling, and we believed in him.
+[com] (114): Had a perspective on history that was compelling
+
+[ori] (115): I did.
+[com] (115): I did.
+
+[ori] (116): Linderman. Your father.
+[com] (116): Linderman. Your father.
+
+[ori] (117): Bob said you locked him away.
+[com] (117): Bob said you locked him.
+
+[ori] (118): No. Not at first.
+[com] (118): No. Not.
+
+[ori] (119): In the beginning, I helped him.
+[com] (119): In the, I helped him.
+
+[ori] (120): You what?
+[com] (120): You what.
+
+[ori] (121): And in the end, Adam decided that the world just wasn't worth fixing,
+[com] (121): And, Adam decided that the world wasn't worth fixing.
+
+[ori] (122): And that it needed to be wiped clean with an unstoppable virus.
+[com] (122): And needed to be wiped clean.
+
+[ori] (123): Just before it was too late I, um...
+[com] (123): Just before it was too.
+
+[ori] (124): I came to realize how wrong it was.
+[com] (124): I came to realize how wrong.
+
+[ori] (125): Did you?
+[com] (125): Did you.
+
+[ori] (126): You and Linderman wanted to blow up New York to save the world.
+[com] (126): You and Linderman wanted to blow up New York.
+
+[ori] (127): Doesn't sound to me like you've changed much at all, ma.
+[com] (127): Doesn't sound like you 've changed.
+
+[ori] (128): Only someone with Peter's abilities could get to where the virus is stored.
+[com] (128): Only someone with Peter's abilities could get.
+
+[ori] (129): That's why Adam chose him.
+[com] (129): That's why Adam chose him.
+
+[ori] (130): Where would that be, Mrs. Petrelli?
+[com] (130): Where would be, Mrs. Petrelli.
+
+[ori] (131): Odessa. Texas.
+[com] (131): Odessa. Texas.
+
+[ori] (132): Primatech.
+[com] (132): Primatech.
+
+[ori] (133): Adam will never quit.
+[com] (133): Adam will never quit.
+
+[ori] (134): One bullet right through his head.
+[com] (134): One bullet to head.
+
+[ori] (135): It's the only way.
+[com] (135): It's the way.
+
+[ori] (136): Come on.
+[com] (136): Come on.
+
+[ori] (137): If you can't stop Peter, if you can't stop Peter,
+[com] (137): If you can't stop Peter.
+
+[ori] (138): You'll have to kill him too.
+[com] (138): You 'll have to kill him.
+
+[ori] (139): Right through the head.
+[com] (139): Right through the head
+
+[ori] (140): This doesn't look like the sort of place
+[com] (140): This doesn't look.
+
+[ori] (141): Where they'd store a virus that could destroy the world.
+[com] (141): Where they 'd store a virus could destroy.
+
+[ori] (142): Paper company's just a front.
+[com] (142): Paper company's a front.
+
+[ori] (143): The good stuff's three floors down.
+[com] (143): The good stuff three floors.
+
+[ori] (144): Laboratories, jail cells...
+[com] (144): Laboratories, jail cells.
+
+[ori] (145): Hiro?
+[com] (145): Hiro.
+
+[ori] (146): Peter Petrelli?
+[com] (146): Peter Petrelli.
+
+[ori] (147): What are you doing here?
+[com] (147): What are you doing.
+
+[ori] (148): Adam Monroe killed my father.
+[com] (148): Adam Monroe killed my father.
+
+[ori] (149): And for that, he must pay.
+[com] (149): And for he must pay.
+
+[ori] (150): No!
+[com] (150): No.
+
+[ori] (151): I can't let you hurt him.
+[com] (151): I can't let you hurt.
+
+[ori] (152): Why are you protecting him?
+[com] (152): Why are you protecting.
+
+[ori] (153): Adam is my friend.
+[com] (153): Adam is my friend.
+
+[ori] (154): He was my friend too.
+[com] (154): He was my friend.
+
+[ori] (155): 400 years ago.
+[com] (155): 400 years ago.
+
+[ori] (156): He betrayed me.
+[com] (156): He betrayed me.
+
+[ori] (157): He will betray you.
+[com] (157): He willPay.
+
+[ori] (158): No!
+[com] (158): No.
+
+[ori] (159): He saved my brother's life.
+[com] (159): He saved my brother.
+
+[ori] (160): He murdered my father.
+[com] (160): He murdered my father.
+
+[ori] (161): Your father had him locked away for 30 years.
+[com] (161): Your father had him locked.
+
+[ori] (162): I know.
+[com] (162): I know.
+
+[ori] (163): I was in that same prison.
+[com] (163): I was in that prison.
+
+[ori] (164): Hiro...
+[com] (164): Hiro.
+
+[ori] (165): I went into the future.
+[com] (165): I went into the future.
+
+[ori] (166): There's a virus.
+[com] (166): There a virus.
+
+[ori] (167): It kills almost everyone.
+[com] (167): It kills everyone.
+
+[ori] (168): And it starts here.
+[com] (168): And it starts.
+
+[ori] (169): Today.
+[com] (169): Today.
+
+[ori] (170): Adam and I are gonna stop it.
+[com] (170): Adam and I are gon na stop.
+
+[ori] (171): Hiro?
+[com] (171): Hiro.
+
+[ori] (172): He froze time.
+[com] (172): He froze time.
+
+[ori] (173): Said he knew you.
+[com] (173): Said he knew.
+
+[ori] (174): We were friends once.
+[com] (174): We were friends once.
+
+[ori] (175): A very long time ago.
+[com] (175): A very long time ago.
+
+[ori] (176): He tried to kill you.
+[com] (176): He tried to kill.
+
+[ori] (177): He said I shouldn't trust you.
+[com] (177): He said I shouldn't trust.
+
+[ori] (178): And what did you think about that?
+[com] (178): And what did you think.
+
+[ori] (179): Let's go destroy the virus.
+[com] (179): Let go destroy the virus.
+
+[ori] (180): Right.
+[com] (180): Right.
+
+[ori] (181): I believe this is mine, Carp.
+[com] (181): I believe this is mine.
+
+[ori] (182): Dad left records of pretty much everything he did for the company.
+[com] (182): Dad left records of everything.
+
+[ori] (183): You are really going through with this.
+[com] (183): You are going through.
+
+[ori] (184): They killed dad. They're never gonna leave us alone.
+[com] (184): They killed dad. They 're never gons.
+
+[ori] (185): You do realize what'll happen to us if you tell everyone what you can do.
+[com] (185): You do realize what 'll happen if you tell.
+
+[ori] (186): Yes.
+[com] (186): Yes onYes.
+
+[ori] (187): No more running. No more hiding. No more secrets.
+[com] (187): No more running. No more hiding.
+
+[ori] (188): Your father couldn't take down this company, Claire.
+[com] (188): Your father couldn't take down.
+
+[ori] (189): What makes you think you can?
+[com] (189): What makes you think.
+
+[ori] (190): I don't know if you can understand it.
+[com] (190): I don't know.
+
+[ori] (191): They only target people with abilities.
+[com] (191): They only target people.
+
+[ori] (192): People like me.
+[com] (192): People like me.
+
+[ori] (193): You are still my daughter, Claire.
+[com] (193): You are still my daughter.
+
+[ori] (194): I dream about you going to college, getting married someday.
+[com] (194): I dream about you going, getting married.
+
+[ori] (195): What if they take you from me...
+[com] (195): What if they take you.
+
+[ori] (196): Use you in some lab experiment?
+[com] (196): Use in some lab experiment.
+
+[ori] (197): I love you, mom.
+[com] (197): I love, mom.
+
+[ori] (198): But I can't live in fear of some big "What if?"
+[com] (198): But I can't live in fear of some big .
+
+[ori] (199): Do you realize how much damage you've done by provoking Claire?
+[com] (199): Do you realize how much damage you 've done.
+
+[ori] (200): I couldn't help it.
+[com] (200): I couldn't help.
+
+[ori] (201): She was just so... weepy and earnest and...
+[com] (201): She was just... warned.
+
+[ori] (202): Who knew she'd turn whistle-blower?
+[com] (202): Who knew she 'd turn whistle-blower.
+
+[ori] (203): It's totally unprofessional, not to mention petty.
+[com] (203): It's unprofessional, not to mention petty.
+
+[ori] (204): And Claire is not even in your league!
+[com] (204): And Claire is not in your league.
+
+[ori] (205): She isn't working with a gunshot wound.
+[com] (205): She isn't working with a gunshot.
+
+[ori] (206): You and I both know you have performed well below what you can do.
+[com] (206): You and I both know you have performed well.
+
+[ori] (207): You're benched.
+[com] (207): You 're benched.
+
+[ori] (208): No more field assignments.
+[com] (208): No more assignments.
+
+[ori] (209): How's about if I said I was sorry?
+[com] (209): How about if I said I was sorry.
+
+[ori] (210): When I think about all the hard work I put into raising you...
+[com] (210): When I think about hard work I put into raising you.
+
+[ori] (211): Daddy...
+[com] (211): Daddy.
+
+[ori] (212): You said you knew all about my ability.
+[com] (212): You said you knew.
+
+[ori] (213): Tell me what my dad did to me.
+[com] (213): Tell me what my dad did.
+
+[ori] (214): I'm stuck in this hell-hole.
+[com] (214): I 'm stuck in this hell.
+
+[ori] (215): My family thinks I'm dead.
+[com] (215): My family thinks I 'm dead.
+
+[ori] (216): There's not a lot of incentive to share.
+[com] (216): There not a lot of incentive.
+
+[ori] (217): I could make you tell me.
+[com] (217): I could make you tell.
+
+[ori] (218): You could try.
+[com] (218): You could try.
+
+[ori] (219): Please.
+[com] (219): Please.
+
+[ori] (220): I don't have anyone else to talk to.
+[com] (220): I don't have anyone else to talk
+
+[ori] (221): They wanted to see how much wattage you could discharge.
+[com] (221): They wanted to see you could discharge.
+
+[ori] (222): Enough to power a flashlight, street lamp, an entire city block?
+[com] (222): Enough lamp, an city block.
+
+[ori] (223): During testing, you'd pass out from the strain.
+[com] (223): During testing, you 'd pass out.
+
+[ori] (224): We'd all want to call it a day, but daddy said,
+[com] (224): We 'd want to call, but daddy said.
+
+[ori] (225): "No, my girl's tougher than that. "
+[com] (225): "No, my girl tougher.
+
+[ori] (226): You were seven.
+[com] (226): You were seven.
+
+[ori] (227): You know, the hardest thing a parent ever does
+[com] (227): You know, the thing does does.
+
+[ori] (228): is to have to see their child in pain.
+[com] (228): is to have to see their child.
+
+[ori] (229): Most parents.
+[com] (229): Most parents.
+
+[ori] (230): Elle.
+[com] (230): Elle.
+
+[ori] (231): What are you doing here?
+[com] (231): What are you doing.
+
+[ori] (232): Leaving.
+[com] (232): Leaving.
+
+[ori] (233): Noah, we have a problem.
+[com] (233): Noah we have a problem.
+
+[ori] (234): I'm not part of your "We. "
+[com] (234): I 'm not part of your "We."
+
+[ori] (235): Do you remember?
+[com] (235): Do you remember.
+
+[ori] (236): This is about Claire.
+[com] (236): This is about Claire.
+
+[ori] (237): She's becoming difficult.
+[com] (237): She becoming difficult.
+
+[ori] (238): Is she?
+[com] (238): Is she?
+
+[ori] (239): I need to know if she could possibly have any hard evidence
+[com] (239): I need to know.
+
+[ori] (240): Which could leave this company exposed.
+[com] (240): Which could leave exposed.
+
+[ori] (241): That's unfortunate.
+[com] (241): That's unfortunate.
+
+[ori] (242): Because now we're going to have to take measures to keep your daughter quiet.
+[com] (242): Because we 're going to take measures to keep your daughter quiet.
+
+[ori] (243): - Mom! - Micah! Where have you been?
+[com] (243):  - Micah ! Where have you been.
+
+[ori] (244): I've been looking everywhere for you.
+[com] (244): I 've been looking everywhere.
+
+[ori] (245): Monica tried to get my stuff back that was stolen.
+[com] (245): Monica tried to get back.
+
+[ori] (246): Dad's medal, my comics.
+[com] (246): Dad medal, my comics.
+
+[ori] (247): I told you to let the police handle it.
+[com] (247): I told you to let.
+
+[ori] (248): She got caught.
+[com] (248): She got caught.
+
+[ori] (249): I'm calling the police.
+[com] (249): I 'm calling the police.
+
+[ori] (250): You can call them after we find her.
+[com] (250): You can call after we find.
+
+[ori] (251): She was taken in a red van.
+[com] (251): She was taken in a van.
+
+[ori] (252): We have to rescue her.
+[com] (252): We have to rescue
+
+[ori] (253): - With your super strength- - Micah, stop.
+[com] (253): - With your super strength - Micah stop.
+
+[ori] (254): I don't have my strength anymore.
+[com] (254): I don't have my strength.
+
+[ori] (255): What?
+[com] (255): What.
+
+[ori] (256): The virus- It has side effects.
+[com] (256): The virus It has side effects.
+
+[ori] (257): But it's okay. I got a call from Dr. Suresh.
+[com] (257): But I got a call from Dr. Suresh.
+
+[ori] (258): He maybe found a cure.
+[com] (258): He found a cure.
+
+[ori] (259): He's on his way here to make me better.
+[com] (259): He on his way to make me better.
+
+[ori] (260): I hope so.
+[com] (260): I hope.
+
+[ori] (261): But right now, Monica needs my help.
+[com] (261): But, Monica needs my help.
+
+[ori] (262): So all you have to do is drive.
+[com] (262): So is to do is drive.
+
+[ori] (263): Warning. Security breach.
+[com] (263): Warning. Security breach.
+
+[ori] (264): Unauthorized personnel in the area.
+[com] (264): Unaioxized personnel.
+
+[ori] (265): I believe it's up to the left.
+[com] (265): I believe it's up.
+
+[ori] (266): Oh, please. It's been 30 years.
+[com] (266): Oh It's been 30 years.
+
+[ori] (267): Warning security breach.
+[com] (267): Warning security breach.
+
+[ori] (268): - Unauthorized personnel in the area. - Take care of that, will you?
+[com] (268):  - Unauthorized personnel - Take care, will you.
+
+[ori] (269): So what do we do now?
+[com] (269): So what do we do.
+
+[ori] (270): I guess you'll have to pry it open with that brain of yours.
+[com] (270): I guess you 'll have to pry open with brain of yours.
+
+[ori] (271): I'm not sure I have that sort of power.
+[com] (271): I 'm not sure I have sort of power.
+
+[ori] (272): There's not much at stake here- Just the fate of the entire human race.
+[com] (272): There's not much at stake Just the fate.
+
+[ori] (273): Did you kill Hiro's father?
+[com] (273): Did you kill Hiro.
+
+[ori] (274): I did.
+[com] (274): I did.
+
+[ori] (275): He saw to it that the virus be safely kept here.
+[com] (275): He saw the virus be safely.
+
+[ori] (276): If he didn't plan to use it, why not destroy it?
+[com] (276): If he didn't plan to use.
+
+[ori] (277): Why don't you make me believe you, Adam.
+[com] (277): Why don't you make me believe.
+
+[ori] (278): Hiro said not to trust you.
+[com] (278): Hiro said not to trust
+
+[ori] (279): The woman you love is trapped in some
+[com] (279): The woman you love is trapped.
+
+[ori] (280): horrible future where nearly everyone's dead.
+[com] (280): horrible future.
+
+[ori] (281): You can change that.
+[com] (281): You can change.
+
+[ori] (282): She needs you, Peter.
+[com] (282): She needs, Peter.
+
+[ori] (283): We all need you... to open that door.
+[com] (283): We need... to open that door.
+
+[ori] (284): Hey you're nothing like you said you were.
+[com] (284): Hey you 're nothing like you said.
+
+[ori] (285): Alejandro was right about you all along.
+[com] (285): Alejandro was right.
+
+[ori] (286): You wanna get rid of your powers, I want mine back.
+[com] (286): You w get rid of your powers.
+
+[ori] (287): After Suresh fixes me, I'll gladly take yours off your hands.
+[com] (287): After Suresh fixes, I 'll take.
+
+[ori] (288): There's a bed over there.
+[com] (288): There's a bed.
+
+[ori] (289): Stay put.
+[com] (289): Stay put.
+
+[ori] (290): Stay calm.
+[com] (290): Stay calm.
+
+[ori] (291): And remember...
+[com] (291): And remember.
+
+[ori] (292): Mohinder.
+[com] (292): Mohinder.
+
+[ori] (293): It'll be okay, Molly, I promise.
+[com] (293): It 'll be okay, Molly.
+
+[ori] (294): So this is your... laboratory, huh?
+[com] (294): So this is your.
+
+[ori] (295): I killed that artist, Isaac Mendez, right on this very spot.
+[com] (295): I killed that artist, Isaac Mendez, right.
+
+[ori] (296): I'm going to have to take a sample of your blood.
+[com] (296): I 'm going to have to take a sample.
+
+[ori] (297): Why?
+[com] (297): Why.
+
+[ori] (298): You self-diagnosed.
+[com] (298): You self-diagnosed.
+
+[ori] (299): I need to know what strain of the virus you have.
+[com] (299): I need to know what strain.
+
+[ori] (300): Or if you even have it at all.
+[com] (300): Or if you have it.
+
+[ori] (301): Just give me the remedy.
+[com] (301): Just give the remedy.
+
+[ori] (302): Doesn't work like that.
+[com] (302): Doesn't work.
+
+[ori] (303): The wrong dosage will kill you.
+[com] (303): The wrong dosage will kill.
+
+[ori] (304): Your father helped me find my gift.
+[com] (304): Your father helped find my gift.
+
+[ori] (305): Now here you are restoring it.
+[com] (305): Now you are restoring it.
+
+[ori] (306): Life has its poetry, doesn't it?
+[com] (306): Life has, doesn't it.
+
+[ori] (307): My father who you murdered.
+[com] (307): My father you murdered.
+
+[ori] (308): Your father who betrayed me.
+[com] (308): Your father betrayed me.
+
+[ori] (309): Don't make that same mistake, Mohinder.
+[com] (309): Don't make that mistake, Mohinder.
+
+[ori] (310): Does Suresh know you have him on video surveillance?
+[com] (310): Does Suresh know you have him.
+
+[ori] (311): Sylar.
+[com] (311): Sylar.
+
+[ori] (312): Oh, daddy, you're gonna be so proud of me.
+[com] (312): Oh, daddy, you 're gon na be so proud.
+
+[ori] (313): Where am I?
+[com] (313): Where am I.
+
+[ori] (314): That doesn't matter.
+[com] (314): That doesn't matter.
+
+[ori] (315): Both you and it are about to get country fried.
+[com] (315): Both are about to get country fried.
+
+[ori] (316): Please, let me go!
+[com] (316): Please let me go.
+
+[ori] (317): I swear, I was only trying to help somebody!
+[com] (317): I swear, I was trying to help somebody.
+
+[ori] (318): You should've thought about that before you started messing up my business.
+[com] (318): You should 've thought about you started messing up my business.
+
+[ori] (319): So you thought you was gonna be a hero, huh?
+[com] (319): So you thought you was gon na be a hero.
+
+[ori] (320): You know what happens to heroes in the real world?
+[com] (320): You know what happens in the real world.
+
+[ori] (321): They end up dead...
+[com] (321): They end dead.
+
+[ori] (322): Just like you.
+[com] (322): Just like you.
+
+[ori] (323): Turn left here.
+[com] (323): Turn left.
+
+[ori] (324): Explain to me how that works.
+[com] (324): Explain how that works.
+
+[ori] (325): Monica has a cell phone, and the battery emits a tiny GPS signal
+[com] (325): Monica has a cell phone, and the battery doubled a tiny GPS signal.
+
+[ori] (326): Which I can use to try and get her position.
+[com] (326): Which I can use to try and get.
+
+[ori] (327): Basically, I told your cell phone to find her cell phone and show me where it is.
+[com] (327):  Hop, I told your cell phone to find her cell and show.
+
+[ori] (328): You told the phone.
+[com] (328): You told the phone.
+
+[ori] (329): Yeah.
+[com] (329): Yeah.
+
+[ori] (330): Don't slow down. The light will change.
+[com] (330): Don't slow down.
+
+[ori] (331): Let me guess.
+[com] (331): Let me guess.
+
+[ori] (332): You told it to?
+[com] (332): You told to.
+
+[ori] (333): Slow down, slow down, slow down!
+[com] (333): Slow down, slow down.
+
+[ori] (334): Okay...
+[com] (334): Okay.
+
+[ori] (335): We don't talk about that ever again.
+[com] (335): We don't talk again.
+
+[ori] (336): Agreed.
+[com] (336): Agreed.
+
+[ori] (337): Look, before we go in, I need to know something.
+[com] (337): Look I need to know something.
+
+[ori] (338): Is Peter as dangerous as he was in Kirby Plaza?
+[com] (338): Is Peter as dangerous was in Kirby Plaza.
+
+[ori] (339): You know, with the whole-Puhh!
+[com] (339): You know,!
+
+[ori] (340): I haven't seen him since that night, but I trust him with my life, Parkman.
+[com] (340): I haven't seen, but I trust him with my life, Parkman.
+
+[ori] (341): Yeah, but your mother...
+[com] (341): Yeah but your mother.
+
+[ori] (342): Your mother told me that if I had to, that I should kill Peter.
+[com] (342): Your mother told, I should kill Peter.
+
+[ori] (343): Listening to my mother has never led to anything good.
+[com] (343): Listening to my mother has never led.
+
+[ori] (344): If Peter becomes a problem, I'll handle him.
+[com] (344): If Peter becomes, I 'll handle him.
+
+[ori] (345): Flying man!
+[com] (345): Flying man.
+
+[ori] (346): Who's this guy supposed to be?
+[com] (346): Who this guy supposed to be.
+
+[ori] (347): Oh, good, you're here.
+[com] (347): Oh, good, you 're.
+
+[ori] (348): Uh, so these two boxes are done.
+[com] (348): Uh, so these two boxes are done.
+
+[ori] (349): They can go in the car.
+[com] (349): They can go.
+
+[ori] (350): I didn't come to help you, Claire.
+[com] (350): I didn't come to help.
+
+[ori] (351): I came to stop you.
+[com] (351): I came you.
+
+[ori] (352): These people ruined my life.
+[com] (352): These people ruined my life.
+
+[ori] (353): - Your life. - No.
+[com] (353): - Your life. No.
+
+[ori] (354): They didn't.
+[com] (354): They didn't.
+
+[ori] (355): But what you're about to do- I'm pretty sure that will.
+[com] (355): But what you 'm pretty.
+
+[ori] (356): West, you're the one who said that we were special,
+[com] (356): West, you 're the one.
+
+[ori] (357): That the rules didn't apply to us.
+[com] (357): That the rules didn't apply.
+
+[ori] (358): I think you misunderstood me.
+[com] (358): I think you misunderstood.
+
+[ori] (359): If we show everyone what we can do, they'll listen to us.
+[com] (359): If we show, they 'll listen to us.
+
+[ori] (360): I can't.
+[com] (360): I can't.
+
+[ori] (361): I like my secrets.
+[com] (361): I like my secrets.
+
+[ori] (362): And I liked finding in you, someone who I could share that with.
+[com] (362): And I liked finding in you.
+
+[ori] (363): But after you go public, it's all gone.
+[com] (363): But after you go public.
+
+[ori] (364): You saw what they did to my dad.
+[com] (364): You saw what they did.
+
+[ori] (365): This is the only way to beat them.
+[com] (365): This is the way to beat.
+
+[ori] (366): Exposing us, isn't going to bring him back.
+[com] (366): Exposing us, isn't going.
+
+[ori] (367): Fine.
+[com] (367): Fine.
+
+[ori] (368): Here's your file.
+[com] (368): Here's your file.
+
+[ori] (369): It's everything they have on you.
+[com] (369): It's everything have.
+
+[ori] (370): Now there isn't an "Us" for you to be worried about.
+[com] (370): Now there isn't an "Us" to be worried about.
+
+[ori] (371): Claire, please, don't do this.
+[com] (371): Claire don't do this.
+
+[ori] (372): You won't leave me, will you, Mr. Muggles?
+[com] (372): You won't leave, Muggles.
+
+[ori] (373): Hello, Claire-Bear.
+[com] (373): Hello, Claire-Bear.
+
+[ori] (374): I wish Alejandro was here to help.
+[com] (374): I wish Alejandro was here.
+
+[ori] (375): Who's that?
+[com] (375): Who's that.
+
+[ori] (376): He's my brother.
+[com] (376): He my brother.
+
+[ori] (377): I sent him away.
+[com] (377): I sent away.
+
+[ori] (378): Gabriel said-
+[com] (378): Gabriel said-
+
+[ori] (379): I can find him for you.
+[com] (379): I can find him.
+
+[ori] (380): Even if he is far away.
+[com] (380): Even if he is away.
+
+[ori] (381): So you know he's safe.
+[com] (381): So you know he's safe
+
+[ori] (382): You can?
+[com] (382): You can.
+
+[ori] (383): How?
+[com] (383): How.
+
+[ori] (384): I just know where people are.
+[com] (384): I know where people are.
+
+[ori] (385): I need a picture or something to think about.
+[com] (385): I need to think about.
+
+[ori] (386): This is Alejandro.
+[com] (386): This is Alejandro.
+
+[ori] (387): Here.
+[com] (387): Here.
+
+[ori] (388): He's not anywhere.
+[com] (388): He not anywhere.
+
+[ori] (389): But...
+[com] (389): But.
+
+[ori] (390): If he's not anywhere...
+[com] (390): If he's not.
+
+[ori] (391): - How? -You have the same strain of the virus Niki has.
+[com] (391):  How?You have the same strain of the virus Niki has.
+
+[ori] (392): The company injected you as well.
+[com] (392): The company injected as well.
+
+[ori] (393): Injected me?
+[com] (393): Injected me.
+
+[ori] (394): Someone did this to me?
+[com] (394): Someone did this.
+
+[ori] (395): You killed him?
+[com] (395): You killed him.
+
+[ori] (396): You killed my brother!
+[com] (396): You killed my brother
+
+[ori] (397): Now look what you made me do.
+[com] (397): Now look what you made do.
+
+[ori] (398): Where is the "Heal anything" blood?
+[com] (398): Where is the "Heal anything blood.
+
+[ori] (399): Please.
+[com] (399): Please.
+
+[ori] (400): You had it here all along?
+[com] (400): You had it here.
+
+[ori] (401): You and I have trust issues, Doctor.
+[com] (401): You have trust issues.
+
+[ori] (402): Give it to her first.
+[com] (402): Give to her.
+
+[ori] (403): Let me see you save her. Then if it works...
+[com] (403): Let me see you save her.
+
+[ori] (404): I'll let you save me.
+[com] (404): I 'll let save me.
+
+[ori] (405): It was a lie?
+[com] (405): It was a lie.
+
+[ori] (406): Another lie?
+[com] (406): Another lie.
+
+[ori] (407): No, please, you have to understand.
+[com] (407): No, you have to understand.
+
+[ori] (408): None of this was my decision.
+[com] (408): None of this was.
+
+[ori] (409): But I saw you get shot.
+[com] (409):  I saw you get shot.
+
+[ori] (410): I saw it!
+[com] (410): I saw it.
+
+[ori] (411): It's because of you.
+[com] (411): It's because of you.
+
+[ori] (412): They injected me with your blood.
+[com] (412): They injected with your blood.
+
+[ori] (413): You healed me.
+[com] (413): You healed me.
+
+[ori] (414): I- I don't get it.
+[com] (414): I- I don't get.
+
+[ori] (415): And we're just supposed to pretend you weren't dead?
+[com] (415): And we 're just supposed to pretend.
+
+[ori] (416): This is an impossible situation and it's just getting worse, Claire.
+[com] (416): This is an impossible situation, Claire.
+
+[ori] (417): You have to stop.
+[com] (417): You have to stop
+
+[ori] (418): Stop what?
+[com] (418): Stop what.
+
+[ori] (419): Your plans to expose the company.
+[com] (419): Your plans to expose.
+
+[ori] (420): It's unacceptable.
+[com] (420): It's unacceptable.
+
+[ori] (421): If we destroy them, we get our lives back, you back.
+[com] (421): If we destroy we get our lives back.
+
+[ori] (422): No, if you push this, they will react.
+[com] (422): No, if you push this.
+
+[ori] (423): React?
+[com] (423): React.
+
+[ori] (424): No, it-It's not gonna come to that.
+[com] (424): No, it's not gon gon na come.
+
+[ori] (425): I've made a deal that's gonna keep you all alive.
+[com] (425): I 've made a deal that's gonna keep alive.
+
+[ori] (426): What deal?
+[com] (426): What deal.
+
+[ori] (427): I have to go back with them.
+[com] (427): I have to go.
+
+[ori] (428): And you all will live normal lives.
+[com] (428): And you will live normal lives.
+
+[ori] (429): That's all I've ever wanted for you.
+[com] (429): That's all I 've wanted.
+
+[ori] (430): You can't. Please.
+[com] (430): You can't.
+
+[ori] (431): You were right, Claire, when you said it was all my fault.
+[com] (431): You were, Claire.
+
+[ori] (432): Noah!
+[com] (432): Noah.
+
+[ori] (433): I never meant to hurt you.
+[com] (433): I never meant to hurt.
+
+[ori] (434): It's done.
+[com] (434): It's done.
+
+[ori] (435): Go. Get the virus.
+[com] (435): Go. Get.
+
+[ori] (436): I must stop you, Kensei.
+[com] (436): I must stop, Kensei.
+
+[ori] (437): He's going to keep at it, Peter, unless you do something about it.
+[com] (437): He's going to keep at it.
+
+[ori] (438): Let Hiro go.
+[com] (438): Let Hiro go.
+
+[ori] (439): Go after Adam.
+[com] (439): Go after Adam.
+
+[ori] (440): He's using you, Peter.
+[com] (440): He's using, Peter.
+
+[ori] (441): Let Hiro go.
+[com] (441): Let Hiro go.
+
+[ori] (442): Go after Adam.
+[com] (442): Go after Adam.
+
+[ori] (443): Go after Adam. He's evil.
+[com] (443): Go after Adam. He evil.
+
+[ori] (444): I don't think so.
+[com] (444): I don't think
+
+[ori] (445): He wants to destroy the whole world.
+[com] (445): He wants to destroy the world.
+
+[ori] (446): You're wrong.
+[com] (446): You 're wrong.
+
+[ori] (447): Adam wouldn't do that.
+[com] (447): Adam wouldn't do.
+
+[ori] (448): He's going to release he virus.
+[com] (448): He's going to release.
+
+[ori] (449): He wants to destroy the virus.
+[com] (449): He wants to destroy.
+
+[ori] (450): Don't you understand?
+[com] (450): Don't you understand.
+
+[ori] (451): You're on the wrong side!
+[com] (451): You're on the wrong side.
+
+[ori] (452): What about me, Pete?
+[com] (452): What about me, Pete.
+
+[ori] (453): Nathan?
+[com] (453): Nathan.
+
+[ori] (454): Am I on the wrong side too?
+[com] (454): Am I side too.
+
+[ori] (455): Kensei.
+[com] (455): Kensei.
+
+[ori] (456): You were more than a friend to me.
+[com] (456): You were more than a friend
+
+[ori] (457): You were my inspiration.
+[com] (457): You were my inspiration.
+
+[ori] (458): I was a rudderless drunk, and then you came along, you taught me to be a hero.
+[com] (458): I was a rudderless drunk you came along.
+
+[ori] (459): I went to the company.
+[com] (459): I went.
+
+[ori] (460): I saw Adam's history.
+[com] (460): I saw Adam history.
+
+[ori] (461): Who he is and what he wanted.
+[com] (461): Who he is and he wanted.
+
+[ori] (462): Pete... he tried to release the virus.
+[com] (462): Pete tried to release the virus.
+
+[ori] (463): Do you wanna know how your burns got healed, Nathan?
+[com] (463): Do you wanan know how your burns got healed.
+
+[ori] (464): He gave you his blood.
+[com] (464): He gave his blood.
+
+[ori] (465): I was there.
+[com] (465): I was there.
+
+[ori] (466): You should be grateful.
+[com] (466): You should be grateful.
+
+[ori] (467): He used me.
+[com] (467): He used.
+
+[ori] (468): Wars, famine... disease.
+[com] (468): Wars, famine.
+
+[ori] (469): 400 years later, nothing has changed.
+[com] (469): 400 years has changed.
+
+[ori] (470): When god wasn't happy with what he'd created, he
+[com] (470): When god wasn't happy he 'd created.
+
+[ori] (471): made it rain for 40 days and 40 nights.
+[com] (471): made rain for 40 days.
+
+[ori] (472): He just washed it all away.
+[com] (472): He washed all away.
+
+[ori] (473): He had the right idea.
+[com] (473): He had the right idea.
+
+[ori] (474): Because when this virus is released
+[com] (474): Because this virus is released.
+
+[ori] (475): Those of us who are left will be granted a second chance.
+[com] (475): Those will be granted a second chance.
+
+[ori] (476): And I'll be their hero.
+[com] (476): And I'll be their hero.
+
+[ori] (477): He used me to get to you.
+[com] (477): He used to get.
+
+[ori] (478): Don't you see it?
+[com] (478): Don't you see.
+
+[ori] (479): He tried to manipulate you like that.
+[com] (479): He tried to manipulate.
+
+[ori] (480): - Nathan, he- - Peter, that night at Kirby Plaza when I carried you away,
+[com] (480):  - Nathan, Peter, that night at Kirby Plaza, I carried away.
+
+[ori] (481): It's because I believe in you.
+[com] (481): It believe in you.
+
+[ori] (482): You're my brother, Pete.
+[com] (482): You 're my brother.
+
+[ori] (483): I love you.
+[com] (483): I love.
+
+[ori] (484): Really?
+[com] (484): Really.
+
+[ori] (485): I've lived for over 400 years.
+[com] (485): I've lived for over 400 years.
+
+[ori] (486): Can you really trust Adam?
+[com] (486): Can you trust Adam.
+
+[ori] (487): Is that it?
+[com] (487): Is it.
+
+[ori] (488): Where'd those guys go?
+[com] (488): Where ' those guys go.
+
+[ori] (489): They're gone.
+[com] (489): They 're gone.
+
+[ori] (490): What is all this stuff?
+[com] (490): What is this stuff.
+
+[ori] (491): I saw what this could do.
+[com] (491): I saw this could do.
+
+[ori] (492): I almost-
+[com] (492): I almost-
+
+[ori] (493): Peter, you're not responsible for something that might have happened.
+[com] (493): Peter, you 're not responsible.
+
+[ori] (494): You came here to destroy the virus.
+[com] (494): You came to destroy.
+
+[ori] (495): Now, finish the job.
+[com] (495): Now finish the job.
+
+[ori] (496): Step back.
+[com] (496): Step back.
+
+[ori] (497): What the hell's going on?
+[com] (497): What the hell.
+
+[ori] (498): Your mother and my father-
+[com] (498): Your mother.
+
+[ori] (499): God knows what else they've done.
+[com] (499): God knows they 've done.
+
+[ori] (500): How much longer are we gonna have to clean up their mess?
+[com] (500): How longer are we gon na have.
+
+[ori] (501): Matt, you're right.
+[com] (501): Matt, you 're.
+
+[ori] (502): You're right.
+[com] (502): You 're right.
+
+[ori] (503): We've been used by these people, manipulated.
+[com] (503): We 've been used by these people.
+
+[ori] (504): But it's over.
+[com] (504): But it's.
+
+[ori] (505): It stops here.
+[com] (505): It stops here.
+
+[ori] (506): No more secrets.
+[com] (506): No more secrets.
+
+[ori] (507): So what do you wanna do?
+[com] (507): So what do you w do.
+
+[ori] (508): We take this all public.
+[com] (508): We take this public.
+
+[ori] (509): We expose them for what they are,
+[com] (509): We expose, are.
+
+[ori] (510): What they've done,
+[com] (510): What they 've done.
+
+[ori] (511): That they're the enemy.
+[com] (511): That 're the enemy.
+
+[ori] (512): I wanna have a press conference.
+[com] (512): I wan have a press conference.
+
+[ori] (513): Matt, I need your help.
+[com] (513): Matt I need your help.
+
+[ori] (514): Make sure everybody listens to me.
+[com] (514): Make sure everybody listens.
+
+[ori] (515): That's it? Just a simple injection?
+[com] (515): That? Just a simple injection.
+
+[ori] (516): I'm sure Maya will understand if I'm not here when she wakes up.
+[com] (516):  Maya will understand if I 'm not here.
+
+[ori] (517): Sylar!
+[com] (517): Sylar.
+
+[ori] (518): Molly!
+[com] (518): Molly.
+
+[ori] (519): The blood!
+[com] (519): The blood.
+
+[ori] (520): Oh, my god.
+[com] (520): Oh my god.
+
+[ori] (521): Niki.
+[com] (521): Niki.
+
+[ori] (522): Mom, we're almost there.
+[com] (522): Mom, we 're almost.
+
+[ori] (523): Girl, what you doing?
+[com] (523): Girl what you doing.
+
+[ori] (524): Gimme that phone!
+[com] (524): Gimme phone.
+
+[ori] (525): I didn't call nobody!
+[com] (525): I didn't call nobody.
+
+[ori] (526): I swear!
+[com] (526): I swear.
+
+[ori] (527): I swear I didn't call anybody!
+[com] (527): I swear I didn't call anybody.
+
+[ori] (528): Look at that, look at that.
+[com] (528): Look, look at that.
+
+[ori] (529): Look what you did, huh?
+[com] (529): Look what you did.
+
+[ori] (530): No.
+[com] (530): No.
+
+[ori] (531): No.
+[com] (531): No.
+
+[ori] (532): Who you think's gonna rescue you?
+[com] (532): Who you think's gon gon gonna rescue.
+
+[ori] (533): No, don't leave me here!
+[com] (533): No, don't leave.
+
+[ori] (534): No! No, don't leave me here, please!
+[com] (534): No ! No, don't leave.
+
+[ori] (535): Please don't leave me here!
+[com] (535): Please don't leave.
+
+[ori] (536): Stop.
+[com] (536): Stop.
+
+[ori] (537): It's right around here.
+[com] (537): It's right.
+
+[ori] (538): The van!
+[com] (538): The van.
+
+[ori] (539): That's the guy who took Monica!
+[com] (539): That's the guy.
+
+[ori] (540): Hold on.
+[com] (540): Hold on.
+
+[ori] (541): You crazy bitch!
+[com] (541): You crazy bitch.
+
+[ori] (542): What's wrong with you?
+[com] (542): What's wrong.
+
+[ori] (543): Where's Monica?
+[com] (543): Where's Monica.
+
+[ori] (544): Go to hell.
+[com] (544): Go to hell.
+
+[ori] (545): Mom, the building!
+[com] (545): Mom the building.
+
+[ori] (546): She's in there!
+[com] (546): She's.
+
+[ori] (547): Micah, stay in the car and call 911!
+[com] (547): Micah, stay in the car 911.
+
+[ori] (548): Monica!
+[com] (548): Monica.
+
+[ori] (549): Monica!
+[com] (549): Monica.
+
+[ori] (550): I'm here! I'm here!
+[com] (550): I 'm here.
+
+[ori] (551): Help me!
+[com] (551): Help me.
+
+[ori] (552): How'd you find me?
+[com] (552): How 'd you find.
+
+[ori] (553): Micah.
+[com] (553): Micah.
+
+[ori] (554): Oh, I love that kid.
+[com] (554): Oh, I love kid.
+
+[ori] (555): You okay?
+[com] (555): You okay.
+
+[ori] (556): Niki, look out!
+[com] (556): Niki, look out.
+
+[ori] (557): When I lift that beam, you pull the door open.
+[com] (557): When I lift, you pull.
+
+[ori] (558): Go!
+[com] (558): Go.
+
+[ori] (559): Go, I'm right behind you.
+[com] (559): Go, I 'm behind.
+
+[ori] (560): Monica!
+[com] (560): Monica.
+
+[ori] (561): You're all right!
+[com] (561): You 're right.
+
+[ori] (562): C'mon!
+[com] (562): C 'mon.
+
+[ori] (563): C'mon, run!
+[com] (563): C 'mon, run.
+
+[ori] (564): Mom!
+[com] (564): Mom.
+
+[ori] (565): Carp!
+[com] (565): Carp.
+
+[ori] (566): Let me out!
+[com] (566): Let me out.
+
+[ori] (567): Carp!
+[com] (567): Carp.
+
+[ori] (568): Carp!
+[com] (568): Carp.
+
+[ori] (569): Let me out!
+[com] (569): Let me out.
+
+[ori] (570): Carp!
+[com] (570): Carp.
+
+[ori] (571): Carp!
+[com] (571): Carp.
+
+[ori] (572): I thought...
+[com] (572): I thought.
+
+[ori] (573): I was dead.
+[com] (573): I was dead.
+
+[ori] (574): You very nearly were.
+[com] (574): You nearly were.
+
+[ori] (575): Sylar's gone.
+[com] (575): Sylar gone.
+
+[ori] (576): My dad's gonna kill me.
+[com] (576): My dad's gon gon na kill.
+
+[ori] (577): I doubt that very much.
+[com] (577): I doubt that much.
+
+[ori] (578): If you hadn't arrived, Sylar would have slaughtered us all.
+[com] (578): , Sylar would have slaughtered us all.
+
+[ori] (579): We owe you our lives.
+[com] (579): We owe our lives.
+
+[ori] (580): Really?
+[com] (580): Really.
+
+[ori] (581): Cool.
+[com] (581): Cool.
+
+[ori] (582): Sure you're all right with this?
+[com] (582): Sure you 're all right.
+
+[ori] (583): Yeah, I just keep thinking if I hadn't listened to Adam.
+[com] (583): Yeah, I keep thinking.
+
+[ori] (584): If i hadn't listened to Linderman.
+[com] (584): If i hadn't listened to Linderman.
+
+[ori] (585): You tried to do the right thing.
+[com] (585): You tried to do the thing.
+
+[ori] (586): You always do.
+[com] (586): You always do.
+
+[ori] (587): You trusted that people are as good as you are.
+[com] (587): You trusted people are as good.
+
+[ori] (588): But if you see yourself as a monster, Pete,
+[com] (588): But if you see as a monster, Pete.
+
+[ori] (589): This guilt is just gonna eat you up inside.
+[com] (589): This guilt is gon gon na eat.
+
+[ori] (590): Believe me, I know.
+[com] (590): Believe I know.
+
+[ori] (591): What?
+[com] (591): What.
+
+[ori] (592): Just really missed you.
+[com] (592): Just missed you.
+
+[ori] (593): I missed you too.
+[com] (593): I missed too.
+
+[ori] (594): Okay, I did it.
+[com] (594): Okay, I did.
+
+[ori] (595): They're ready for you.
+[com] (595): They 're ready.
+
+[ori] (596): They'll definitely hear what you have to say.
+[com] (596): They 'll hear you have to say.
+
+[ori] (597): Good afternoon.
+[com] (597): Good afternoon.
+
+[ori] (598): Most of you have no idea who I am.
+[com] (598): Most of you have no idea I am.
+
+[ori] (599): My name is Nathan Petrelli,
+[com] (599): My name is Nathan Petrelli.
+
+[ori] (600): And I was elected to Congress in the State of New York.
+[com] (600): And I was elected to Congress.
+
+[ori] (601): Seems like a long time ago.
+[com] (601): Seems like a long time.
+
+[ori] (602): I lost my position.
+[com] (602): I lost my position
+
+[ori] (603): I lost my brother.
+[com] (603): I lost my brother
+
+[ori] (604): I lost my family.
+[com] (604): I lost my family.
+
+[ori] (605): I'm sad to say that I lost my way.
+[com] (605): I 'm sad I lost.
+
+[ori] (606): But while I was gone, I had the chance to see the world through newly-humbled eyes.
+[com] (606): But, I had the chance to see the world.
+
+[ori] (607): Witnessed amazing things.
+[com] (607): Witnessed amazing things.
+
+[ori] (608): I've seen ordinary people among us, trying their best each day to be heroes.
+[com] (608): I 've seen ordinary people, trying to be heroes.
+
+[ori] (609): These ordinary people...
+[com] (609): These ordinary people.
+
+[ori] (610): Like you.
+[com] (610): Like you.
+
+[ori] (611): Like me.
+[com] (611): Like me.
+
+[ori] (612): Are capable of extraordinary things.
+[com] (612): Are capable of things.
+
+[ori] (613): You have no idea...
+[com] (613): You have no idea.
+
+[ori] (614): How extraordinary.
+[com] (614): How extraordinary.
+
+[ori] (615): But there are other people, organizations,
+[com] (615): But there are other people, organizations.
+
+[ori] (616): Who don't want you to know the truth.
+[com] (616): Who don't want you to know.
+
+[ori] (617): I, myself, kept secrets.
+[com] (617): I kept secrets.
+
+[ori] (618): But last year...
+[com] (618): But year.
+
+[ori] (619): Something incredible happened to me.
+[com] (619): Something incredible happened.
+
+[ori] (620): And it changed my life.
+[com] (620): And changed my life.
+
+[ori] (621): At first, I was afraid.
+[com] (621): At first, I was afraid.
+
+[ori] (622): But I'm- I'm not afraid anymore.
+[com] (622): But I 'm not afraid.
+
+[ori] (623): I'm here to tell you the truth.
+[com] (623): I 'm here to tell.
+
+[ori] (624): I have the abili-
+[com] (624): I have the abili-
+
+[ori] (625): In Odessa, Texas,
+[com] (625): In Odessa, Texas.
+
+[ori] (626): Where the former New York Congressman elect Nathan Petrelli
+[com] (626): Where the New York Congressman elect Nathan Petrelli
+
+[ori] (627): was shot by an unknown assassin.
+[com] (627): was shot by an assassin.
+
+[ori] (628): Authorities-
+[com] (628): Authorities.
+
+[ori] (629): I know.
+[com] (629): I know.
+
+[ori] (630): It was unavoidable.
+[com] (630): It was unavoidable.
+
+[ori] (631): You do know that you've now opened Pandora's box.
+[com] (631): You do know you 've now opened Pandora.
+
+[ori] (632): END OF VOLUME TWO
+[com] (632): END OFtransUME TWO TWO.
+
+[ori] (633): VOLUME THREE "VILLAINS"
+[com] (633): VOLUME THREE "VILLAINS"
+
+[ori] (634): I'm back.
+[com] (634): I 'm back.
+
+[ori] (635): TO BE CONTINUED...
+[com] (635): TO BE CommunicationsUED.
+

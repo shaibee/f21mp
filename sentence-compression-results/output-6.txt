@@ -1,0 +1,1863 @@
+[ori] (1): Previously on Heroes...
+[com] (1): Previously on Heroes.
+
+[ori] (2): Thank god you came along.
+[com] (2): Thank god you came.
+
+[ori] (3): I know Dr. Suresh.
+[com] (3): I know Suresh.
+
+[ori] (4): I can take you to him.
+[com] (4): I can take to him.
+
+[ori] (5): Right after we defeat his entire army.
+[com] (5): Right after we defeat.
+
+[ori] (6): She won't wake up, and her vitals are getting worse.
+[com] (6): She won't wake up, are getting worse.
+
+[ori] (7): I am taking her to the company.
+[com] (7): I am taking her.
+
+[ori] (8): The moment you trust them
+[com] (8): The moment you trust.
+
+[ori] (9): With what you care about most,
+[com] (9): With what you care about most
+
+[ori] (10): They'll have you.
+[com] (10): They 'll have.
+
+[ori] (11): We have someone else who needs us.
+[com] (11): We have someone else.
+
+[ori] (12): We would like you to bring her in.
+[com] (12): We would like you to bring her.
+
+[ori] (13): A lot of the people we encounter
+[com] (13): A lot we encounter.
+
+[ori] (14): Aren't in control of their ability.
+[com] (14): Aren't in control.
+
+[ori] (15): But we need you out there,
+[com] (15): But we need you out.
+
+[ori] (16): Doing the good work that you do
+[com] (16): Doing the good work that you do that
+
+[ori] (17): Helping others like her.
+[com] (17): Helping others like her.
+
+[ori] (18): You were with a boy.
+[com] (18): You were with a boy
+
+[ori] (19): There's no boy, dad.
+[com] (19): There no boy, dad.
+
+[ori] (20): I tried out for cheerleading.
+[com] (20): I tried for cheerleading.
+
+[ori] (21): But you promise me that you won't date.
+[com] (21): But you promise you won't date
+
+[ori] (22): Okay.
+[com] (22): Okay.
+
+[ori] (23): I painted that,
+[com] (23): I painted that,
+
+[ori] (24): But all the street signs are in french.
+[com] (24): But the street signs are.
+
+[ori] (25): It could be Montreal.
+[com] (25): It could be Montreal.
+
+[ori] (26): Ricky!
+[com] (26): Ricky.
+
+[ori] (27): The woman who did this to Ricky,
+[com] (27): The woman did this to Ricky.
+
+[ori] (28): She was looking for me.
+[com] (28): She was looking for.
+
+[ori] (29): I'm so sorry.
+[com] (29): I 'm sorry.
+
+[ori] (30): I shouldn't have let him cover for me.
+[com] (30): I shouldn't have let cover.
+
+[ori] (31): It was his choice, Peter.
+[com] (31): It was his, Peter.
+
+[ori] (32): My brother could be a right fool sometimes.
+[com] (32): My brother could be a right fool.
+
+[ori] (33): The woman who killed Ricky,
+[com] (33): The woman who killed Ricky.
+
+[ori] (34): She was looking for me.
+[com] (34): She was looking for.
+
+[ori] (35): You saw what she could do.
+[com] (35): You saw she could do.
+
+[ori] (36): I'm not gonna let you be next.
+[com] (36): I 'm not gon gon na let.
+
+[ori] (37): I'm gonna find her,
+[com] (37): I 'm gon gon na find.
+
+[ori] (38): Find out who she is, what she wants.
+[com] (38): Find out who she wants.
+
+[ori] (39): How are you planning on doing that?
+[com] (39): How are you planning on doing.
+
+[ori] (40): The plane ticket, the painting.
+[com] (40): The plane ticket, the painting.
+
+[ori] (41): It all points to Montreal.
+[com] (41): It all points to Montreal
+
+[ori] (42): It's a start.
+[com] (42): It a start.
+
+[ori] (43): I'm going with you.
+[com] (43): I 'm going with you.
+
+[ori] (44): No.
+[com] (44): No.
+
+[ori] (45): I'm not risking your life too.
+[com] (45): I 'm not risking your life.
+
+[ori] (46): We were both in that Montreal painting.
+[com] (46): We were in Montreal painting.
+
+[ori] (47): I think I'm supposed to go with you, Peter.
+[com] (47): I think I 'm supposed to go.
+
+[ori] (48): Besides, when you find Ricky's killer,
+[com] (48): Besides, you find Ricky's killer.
+
+[ori] (49): I want to be there.
+[com] (49): I want to be there
+
+[ori] (50): What for?
+[com] (50): What.
+
+[ori] (51): To kill the bitch.
+[com] (51): To kill the bitch.
+
+[ori] (52): 1, 2, 3, 4...
+[com] (52): 1, 2, 3.
+
+[ori] (53): R- E-C-Y-C-L-E!
+[com] (53): R- E-C-L-E.
+
+[ori] (54): 5, 6, 7, 8...
+[com] (54): 5, 6, 8.
+
+[ori] (55): It's our planet, let's plant a tree!
+[com] (55): It's our planet, let a tree.
+
+[ori] (56): Whoo!
+[com] (56): Whoo.
+
+[ori] (57): Go, costa verde! Stop, please!
+[com] (57): Go costa verde ! Stop.
+
+[ori] (58): I can't take it anymore.
+[com] (58): I can't take it.
+
+[ori] (59): Do you realize how agonizing it is
+[com] (59): Do realize how agonizing it is.
+
+[ori] (60): To watch you people?
+[com] (60): To watch people.
+
+[ori] (61): It's a no on all three.
+[com] (61): It's a on all three.
+
+[ori] (62): - Next! - Are you crazy?
+[com] (62): - Next - Are you crazy.
+
+[ori] (63): Claire was awesome.
+[com] (63): Claire was awesome.
+
+[ori] (64): I vote "Yes".
+[com] (64): I vote "Yes".
+
+[ori] (65): Okay, that's one vote
+[com] (65): Okay, that's one vote
+
+[ori] (66): For Claire.
+[com] (66): For Claire.
+
+[ori] (67): Anyone else
+[com] (67): Anyone else
+
+[ori] (68): Care to climb out on a limb with May?
+[com] (68): Care to climb on a limb.
+
+[ori] (69): Like I said,
+[com] (69): Like I said.
+
+[ori] (70): Next!
+[com] (70): Next.
+
+[ori] (71): Thanks for trying.
+[com] (71): Thanks for trying.
+
+[ori] (72): Claire, you were amazing.
+[com] (72): Claire, you were amazing.
+
+[ori] (73): Really.
+[com] (73):  triReally.
+
+[ori] (74): I don't know what Debbie's thinking.
+[com] (74): I don't know what Debbie.
+
+[ori] (75): What I'm thinking is that Costa Verde High
+[com] (75): What I 'm thinking is.
+
+[ori] (76): Deserves cheerleaders that are extra-Ordinary.
+[com] (76): Deserves cheerleaders that areinary.
+
+[ori] (77): And you, Claire,
+[com] (77): And you, Claire.
+
+[ori] (78): Are simply Not extra-Ordinary.
+[com] (78): Are Not extra-Ordinary.
+
+[ori] (79): How was that?
+[com] (79): How was that.
+
+[ori] (80): Perfect, yet again.
+[com] (80): Perfect, yet again.
+
+[ori] (81): How much longer are we gonna do this?
+[com] (81): How longer are we gon na do.
+
+[ori] (82): It's been hours.
+[com] (82): It's been.
+
+[ori] (83): I want to go home.
+[com] (83): I want to go.
+
+[ori] (84): Soon, I promise.
+[com] (84): Soon, I promise.
+
+[ori] (85): Let's take a break.
+[com] (85): Let take a break.
+
+[ori] (86): Are you ever gonna tell me what's going on here?
+[com] (86): Are you ever gon na tell what's going.
+
+[ori] (87): Where are we?
+[com] (87): Where are we.
+
+[ori] (88): I mean, you just grabbed me off the street-
+[com] (88): I mean, you grabbed off the street-
+
+[ori] (89): You're in Hartsdale, New York,
+[com] (89): You 're in Hartsdale.
+
+[ori] (90): At a privately funded company
+[com] (90): At a company funded company
+
+[ori] (91): Whose sole purpose is to help you
+[com] (91): Whose sole purpose is to help.
+
+[ori] (92): And others like you.
+[com] (92): And others like.
+
+[ori] (93): Others like me?
+[com] (93): Others like me.
+
+[ori] (94): Not exactly like you.
+[com] (94): Not exactly you.
+
+[ori] (95): Others have different gifts,
+[com] (95): Others have different gifts.
+
+[ori] (96): But you're the first we've met
+[com] (96): But you're the first we 've met
+
+[ori] (97): With adoptive muscle memory.
+[com] (97): With adoptive muscle memory.
+
+[ori] (98): So that's what it's called.
+[com] (98): So's it's called.
+
+[ori] (99): Why is this happening to me?
+[com] (99): Why is this happening.
+
+[ori] (100): We're not really sure.
+[com] (100): We 're not sure.
+
+[ori] (101): There are certain genetic markers,
+[com] (101): There are certain genetic markers
+
+[ori] (102): But where they come from is still a mystery.
+[com] (102): But where they come is a mystery.
+
+[ori] (103): You have been given an extraordinary gift.
+[com] (103): You have been given an gift.
+
+[ori] (104): I agree.
+[com] (104): I agree.
+
+[ori] (105): You are a very special person, Miss Dawson.
+[com] (105): You are a special person Miss Dawson.
+
+[ori] (106): Who are you?
+[com] (106): Who are you.
+
+[ori] (107): My name is Bob.
+[com] (107): My name is Bob.
+
+[ori] (108): I'm in charge of operations.
+[com] (108): I 'm in charge.
+
+[ori] (109): Doctor,
+[com] (109): Doctor,Doctor
+
+[ori] (110): Could I see you for a moment?
+[com] (110): Could I see you.
+
+[ori] (111): Have you established a reliable baseline
+[com] (111): Have you established a reliable baselineHave
+
+[ori] (112): For Miss Dawson's ability?
+[com] (112): For Miss Dawson's ability.
+
+[ori] (113): Yes. She is able to replicate any action.
+[com] (113): Yes. She is able to replicate.
+
+[ori] (114): It's really quite extraordinary.
+[com] (114): It's extraordinary.
+
+[ori] (115): Good.
+[com] (115): Good.
+
+[ori] (116): Now,
+[com] (116): Now, pointed
+
+[ori] (117): We could determine
+[com] (117): We could determine.
+
+[ori] (118): If this stops all of that.
+[com] (118): If this stops all of that.
+
+[ori] (119): What is that?
+[com] (119): What is.
+
+[ori] (120): A variant of the Shanti virus.
+[com] (120): A variant of Shanti virus.
+
+[ori] (121): You're experimenting with the virus?
+[com] (121): You're experimenting with the virus.
+
+[ori] (122): Manipulating a live virus
+[com] (122): Manipulating a live virus.
+
+[ori] (123): Is essential for creating a vaccine, doctor.
+[com] (123): Is essential, doctor.
+
+[ori] (124): We hope to use this virus
+[com] (124): We hope to use.
+
+[ori] (125): To take away Monica's ability
+[com] (125): To take away Monica's ability
+
+[ori] (126): Without harming her.
+[com] (126): Without harming her.
+
+[ori] (127): You could create an incurable strain.
+[com] (127): You could create an incurable strain.
+
+[ori] (128): It could cross over to the general population.
+[com] (128): It could cross over to the population.
+
+[ori] (129): Think how many people were killed by Gabriel Gray.
+[com] (129): Think how people were killed by Gabriel Gray.
+
+[ori] (130): There are some abilities in this world
+[com] (130): There are some abilities.
+
+[ori] (131): That must be stopped at any cost.
+[com] (131): That must be stopped.
+
+[ori] (132): Monica is a sweet girl who loves her abilities.
+[com] (132): Monica is a sweet girl.
+
+[ori] (133): We can't just take them away from her.
+[com] (133): We can't take away from her.
+
+[ori] (134): It's for the greater good.
+[com] (134): It's for the good.
+
+[ori] (135): So she's a lab rat.
+[com] (135): So she's a lab rat.
+
+[ori] (136): You're just going to inject her without her consent.
+[com] (136): You 're going without her consent.
+
+[ori] (137): No, Dr. Suresh, you are.
+[com] (137): No, Suresh, are.
+
+[ori] (138): It's a mutated strain, manufactured.
+[com] (138): It's a mutated strain.
+
+[ori] (139): If the biological structure of the virus has been altered,
+[com] (139):  the biological structure of the virus has been altered.
+
+[ori] (140): I don't know if I can save her.
+[com] (140): I don't know if I can save.
+
+[ori] (141): She could die.
+[com] (141): She could die.
+
+[ori] (142): You're just gonna have to take that chance.
+[com] (142): You 're gon na have to take that chance.
+
+[ori] (143): I never agreed to experiment on people.
+[com] (143): I never agreed to experiment.
+
+[ori] (144): You brought them Molly, didn't you?
+[com] (144): You brought them Molly.
+
+[ori] (145): I didn't know what else to do.
+[com] (145): I didn't know what else.
+
+[ori] (146): All right, look.
+[com] (146): All right look.
+
+[ori] (147): If you refuse to do this,
+[com] (147): If you refuse to do this
+
+[ori] (148): They're gonna get rid of you,
+[com] (148): They 're gon gon na get rid of you.
+
+[ori] (149): And then we're gonna lose
+[com] (149): And we 're gon na lose.
+
+[ori] (150): Everything that we've been trying to do.
+[com] (150): Everything we 've been trying to do.
+
+[ori] (151): And worse yet, you're gonna lose Molly.
+[com] (151): And worse, you 're gon na lose Molly.
+
+[ori] (152): Now you've got principles, and that's fine.
+[com] (152): Now you 've got principles.
+
+[ori] (153): But to bring down this company,
+[com] (153): But to bring down.
+
+[ori] (154): Sometimes we have to do bad things.
+[com] (154): We have to do bad things.
+
+[ori] (155): Don't disappoint me, Suresh.
+[com] (155): Don't disappoint, Suresh.
+
+[ori] (156): Something wrong?
+[com] (156): Something wrong.
+
+[ori] (157): I lied to my dad.
+[com] (157): I lied to my dad
+
+[ori] (158): The other night when I went home,
+[com] (158): The other night when I went home.
+
+[ori] (159): I told him I'd joined cheer-leading.
+[com] (159): I told I'd joined cheer-leading.
+
+[ori] (160): Cheer-leading? That is bad.
+[com] (160): Cheerleading? That is bad.
+
+[ori] (161): You don't understand.
+[com] (161): You don't understand.
+
+[ori] (162): Cheer-leading tryouts were last period.
+[com] (162): Cheerleading tryouts were last period.
+
+[ori] (163): I didn't make it.
+[com] (163): I didn't make it.
+
+[ori] (164): What am i supposed to tell him?
+[com] (164): What am i supposed to tell.
+
+[ori] (165): You met this awesome guy,
+[com] (165): You met this.
+
+[ori] (166): And you need some free time to make out.
+[com] (166): And you need some free time.
+
+[ori] (167): I told you my dad's really overprotective
+[com] (167): I told you my dad's over skyline.
+
+[ori] (168): About the whole dating thing.
+[com] (168): About the whole dating.
+
+[ori] (169): He told me I couldn't date until I was 21.
+[com] (169): He told I couldn't date.
+
+[ori] (170): - So? - So I have to listen to my parents.
+[com] (170):  So I have to listen my parents.
+
+[ori] (171): Don't you?
+[com] (171): Don't you.
+
+[ori] (172): Claire, I can fly.
+[com] (172): Claire I can fly.
+
+[ori] (173): It kind of makes the whole parental guidance thing
+[com] (173): It kind of makes the parental guidance thing
+
+[ori] (174): A non-Issue.
+[com] (174): A non-attr.
+
+[ori] (175): But if it's that important to you,
+[com] (175): But if it's that important.
+
+[ori] (176): We'll figure out a way to get you on the team. It's impossible.
+[com] (176): We 'll figure out a way.
+
+[ori] (177): Debbie Marshall does not deem me Extra-Ordinary enough.
+[com] (177): Debbie Marshall does not deem me Extrainary.
+
+[ori] (178): Oh, that's ridiculous.
+[com] (178): Oh that's ridiculous.
+
+[ori] (179): You're a total babe, and you have a power.
+[com] (179): You 're, have a power.
+
+[ori] (180): By definition, you're better than she is.
+[com] (180): By definition, is.
+
+[ori] (181): Oh, you're sweet.
+[com] (181): Oh you 're sweet.
+
+[ori] (182): But it's not just her.
+[com] (182): But it's not.
+
+[ori] (183): She's got that whole squad
+[com] (183): She got whole squad.
+
+[ori] (184): Wrapped around her evil little pinky.
+[com] (184): Wrapped around her evil little pinky.
+
+[ori] (185): I knew girls just like her at my old school.
+[com] (185): I knew girls just like her.
+
+[ori] (186): All would take is one person to stand up to her.
+[com] (186): All would take is one person to stand.
+
+[ori] (187): Well, be that person.
+[com] (187): Well, be person.
+
+[ori] (188): Take her down a notch.
+[com] (188): Take down a notch.
+
+[ori] (189): How?
+[com] (189): How.
+
+[ori] (190): You were a cheerleader.
+[com] (190): You were a cheerleader.
+
+[ori] (191): What do they fear most?
+[com] (191): What do they fear most.
+
+[ori] (192): Public humiliation?
+[com] (192): Public humiliation.
+
+[ori] (193): We could give her a taste of her own medicine.
+[com] (193): We could give a taste of her medicine.
+
+[ori] (194): Your ability is fascinating.
+[com] (194): Your ability is.
+
+[ori] (195): A gift.
+[com] (195): A gift.
+
+[ori] (196): What I do is terrible.
+[com] (196): What I do is terrible.
+
+[ori] (197): I have taken many lives,
+[com] (197): I have taken many lives
+
+[ori] (198): And I can't control it.
+[com] (198): And I can't control.
+
+[ori] (199): I was like you.
+[com] (199): I was you.
+
+[ori] (200): I could do things, amazing things.
+[com] (200): I could do things, things.
+
+[ori] (201): You?
+[com] (201): You.
+
+[ori] (202): Like what?
+[com] (202): Like what.
+
+[ori] (203): I could move objects with my mind.
+[com] (203): I could move objects.
+
+[ori] (204): I could hear a pin drop from miles away.
+[com] (204): I could hear a pin drop away.
+
+[ori] (205): But then it all just...
+[com] (205): But then it.
+
+[ori] (206): Went away.
+[com] (206): Went away
+
+[ori] (207): That's why I need to see Dr. Suresh,
+[com] (207): That's I need to see Dr. Suresh.
+
+[ori] (208): To get them back.
+[com] (208): To get back.
+
+[ori] (209): You want to be different?
+[com] (209): You want to be different.
+
+[ori] (210): I want to be special,
+[com] (210): I want to be special.
+
+[ori] (211): Unique.
+[com] (211): Unique.
+
+[ori] (212): An ability doesn't have to be a burden, Maya.
+[com] (212): An ability doesn't have to be a burden.
+
+[ori] (213): It can be wonderful.
+[com] (213): It can be wonderful.
+
+[ori] (214): Is there a problem?
+[com] (214): Is a problem.
+
+[ori] (215): My brother wants to hire a coyote,
+[com] (215): My brother wants to hire a coyote.
+
+[ori] (216): To cross the border without you.
+[com] (216): To cross the border.
+
+[ori] (217): Why?
+[com] (217): Why.
+
+[ori] (218): You can't trust them.
+[com] (218): You can't trust.
+
+[ori] (219): It's okay.
+[com] (219): It's okay.
+
+[ori] (220): We'll cross the border together.
+[com] (220): We 'll cross the border.
+
+[ori] (221): I'm glad to have found you, Gabriel.
+[com] (221): I 'm glad to have found, Gabriel.
+
+[ori] (222): Isaac Mendez...
+[com] (222): Isaac Mendez.
+
+[ori] (223): Painted a series of eight paintings
+[com] (223): Painted a series of eight paintings
+
+[ori] (224): Beginning with Kaito Nakamura's death
+[com] (224): ran with Kaito Nakamura's death.
+
+[ori] (225): And ending in mine.
+[com] (225): And ending in mine.
+
+[ori] (226): Where are they?
+[com] (226): Where are they.
+
+[ori] (227): Sorry, I'm retired.
+[com] (227): Sorry, I 'm retired.
+
+[ori] (228): I work in the textile factory now.
+[com] (228): I work factory now.
+
+[ori] (229): Regional Manager of Sales,
+[com] (229): Regional Manager of Sales.
+
+[ori] (230): Like you in the paper company.
+[com] (230): Like you in the company.
+
+[ori] (231): Cut the crap.
+[com] (231): Cut the crap.
+
+[ori] (232): Where are the paintings?
+[com] (232): Where are the paintings
+
+[ori] (233): You think you intimidate me?
+[com] (233): You think you intimidate.
+
+[ori] (234): I trained you,
+[com] (234): I trained,
+
+[ori] (235): You and your invisible partner Claude.
+[com] (235): You Claude.
+
+[ori] (236): I taught you everything!
+[com] (236): I taught everything.
+
+[ori] (237): Then you know what I'm capable of.
+[com] (237): Then you know what I 'm capable.
+
+[ori] (238): Don't make me do this.
+[com] (238): Don't make me do this.
+
+[ori] (239): What is this?
+[com] (239): What is this.
+
+[ori] (240): You want information?
+[com] (240): You want information.
+
+[ori] (241): The Haitian can't help you.
+[com] (241): The Haitian can't help.
+
+[ori] (242): My friend has a new trick.
+[com] (242): My friend has a trick.
+
+[ori] (243): He can reach inside that Company-loving head of yours
+[com] (243): He can reach inside that Company.
+
+[ori] (244): And one by one, blot out all the memories
+[com] (244): And one, blot out the memories.
+
+[ori] (245): You hold most dear.
+[com] (245): You hold most dear.
+
+[ori] (246): Think about it,
+[com] (246): Think about it.
+
+[ori] (247): A man of your advanced years.
+[com] (247): A man of your advanced years.
+
+[ori] (248): Treasured memories give your life meaning.
+[com] (248): Treasured memories give your life.
+
+[ori] (249): Your wedding in Capri.
+[com] (249): Your wedding.
+
+[ori] (250): The births of Andre and Mikhail.
+[com] (250): The births of Andre.
+
+[ori] (251): It'd be a shame if they disappeared,
+[com] (251): It'd be a shame if they disappeared.
+
+[ori] (252): Lost forever.
+[com] (252): Lost forever.
+
+[ori] (253): Start with the day he met his wife.
+[com] (253): Start met his wife.
+
+[ori] (254): Tell me about Katarina.
+[com] (254): Tell about Katarina.
+
+[ori] (255): Your honeymoon.
+[com] (255): Your honeymoon.
+
+[ori] (256): Her favorite flower.
+[com] (256): Her favorite flower.
+
+[ori] (257): I can't remember.
+[com] (257): I can't remember.
+
+[ori] (258): Really?
+[com] (258): Really.
+
+[ori] (259): After 35 years together, such a shame.
+[com] (259): After 35 years, a shame.
+
+[ori] (260): Are you ready to talk,
+[com] (260): Are you ready.
+
+[ori] (261): Or do we keep going?
+[com] (261): Or do we keep going.
+
+[ori] (262): Hi, honey.
+[com] (262): Hi, honey.
+
+[ori] (263): Is everything all right?
+[com] (263): Is everything right.
+
+[ori] (264): Hey, dad, yeah.
+[com] (264): Hey, dad, told.
+
+[ori] (265): I was just wondering if I could borrow the car tonight.
+[com] (265): I was wondering if I could borrow the car.
+
+[ori] (266): Did you ask your mother?
+[com] (266): Did you ask your mother.
+
+[ori] (267): I did, and she said to ask you.
+[com] (267): I did, and she said.
+
+[ori] (268): I'm gonna be with the cheerleaders later.
+[com] (268): I 'm gon gons gon na be.
+
+[ori] (269): Just thought you should know.
+[com] (269): Just thought you should know.
+
+[ori] (270): Full disclosure and all.
+[com] (270): Full disclosure.
+
+[ori] (271): Well, that's very responsible of you, Claire.
+[com] (271): Well, that's responsible.
+
+[ori] (272): Take the car.
+[com] (272): Take the car.
+
+[ori] (273): But do one thing for me.
+[com] (273): But do one thing.
+
+[ori] (274): Sure.
+[com] (274): Sure.
+
+[ori] (275): Lock the doors this time.
+[com] (275): Lock the doors.
+
+[ori] (276): I will. Thanks.
+[com] (276): I will. Thanks.
+
+[ori] (277): Is there something else?
+[com] (277): Is there something.
+
+[ori] (278): Where are you right now?
+[com] (278): Where are you right.
+
+[ori] (279): I told you. Management training in Tulsa.
+[com] (279): I told you. Management training.
+
+[ori] (280): And I'm late for a session.
+[com] (280): And I 'm late.
+
+[ori] (281): Well, I thought you had to work there a year
+[com] (281): Well I thought you had to work.
+
+[ori] (282): Before they'd send you.
+[com] (282): Before they 'd send.
+
+[ori] (283): I'm a quick learner.
+[com] (283): I 'm a learner.
+
+[ori] (284): I've gotta go.
+[com] (284): I 've got go.
+
+[ori] (285): I love you, Claire-Bear.
+[com] (285): I love, Claire.
+
+[ori] (286): I love you too, dad.
+[com] (286): I love too, dad.
+
+[ori] (287): What do you think?
+[com] (287): What do you think
+
+[ori] (288): Okay.
+[com] (288): Okay.
+
+[ori] (289): I'm in.
+[com] (289): I 'm in.
+
+[ori] (290): Your daughter, Claire?
+[com] (290): Your daughter.
+
+[ori] (291): It must be very difficult for her,
+[com] (291): It must be difficult for her.
+
+[ori] (292): The constant fear of discovery,
+[com] (292): The constant fear of discovery
+
+[ori] (293): Especially for a teenager.
+[com] (293): Especially for a teenager.
+
+[ori] (294): Aren't you tired of running?
+[com] (294): Aren't you tired.
+
+[ori] (295): I'm protecting her from animals like you.
+[com] (295): I 'm protecting from animals.
+
+[ori] (296): You can't hide forever.
+[com] (296): You can't hide.
+
+[ori] (297): Take all his memories of me, my family,
+[com] (297): Take his memories, my family,
+
+[ori] (298): Claire, everything I ever told him.
+[com] (298): Claire, everything I told.
+
+[ori] (299): He remembers nothing!
+[com] (299): He remembers nothing.
+
+[ori] (300): Wait!
+[com] (300): Wait.
+
+[ori] (301): I'm like you.
+[com] (301): I 'm you.
+
+[ori] (302): Family comes first.
+[com] (302): Family comes first.
+
+[ori] (303): Maybe we can make a deal.
+[com] (303): Maybe we can make a deal
+
+[ori] (304): What kind of deal?
+[com] (304): What kind.
+
+[ori] (305): You were my protege,
+[com] (305): You were my protege.
+
+[ori] (306): So dedicated to the company, you made me proud.
+[com] (306): So dedicated you made me proud.
+
+[ori] (307): I miss that.
+[com] (307): I miss.
+
+[ori] (308): I want you back.
+[com] (308): I want back.
+
+[ori] (309): Forget it.
+[com] (309): Forget.
+
+[ori] (310): The company has changed.
+[com] (310): The company has changed.
+
+[ori] (311): We have new directives.
+[com] (311): We have new directives.
+
+[ori] (312): Come back to us and you'll be safe,
+[com] (312): Come back and you 'll be safe.
+
+[ori] (313): All of you.
+[com] (313): All of you
+
+[ori] (314): You have my word.
+[com] (314): You have my word.
+
+[ori] (315): What about the paintings?
+[com] (315): What about the paintings
+
+[ori] (316): You'll be told everything.
+[com] (316): You 'll be told.
+
+[ori] (317): I can give you your life back.
+[com] (317): I can give your life back.
+
+[ori] (318): Trust me.
+[com] (318): Trust me.
+
+[ori] (319): What is that?
+[com] (319): What is.
+
+[ori] (320): A border fence, not finished yet.
+[com] (320): A border fence, not finished.
+
+[ori] (321): That is America right there.
+[com] (321): That is America right there.
+
+[ori] (322): Attention, you're in violation of U.S. immigration!
+[com] (322): Attention, you 're in violation.
+
+[ori] (323): We have notified border patrol.
+[com] (323): We have notified border patrol.
+
+[ori] (324): All right, boys, Andale, Andale.
+[com] (324): All right Andale,Andale.
+
+[ori] (325): Let's see them hands.
+[com] (325): Let see them hands.
+
+[ori] (326): Who are they?
+[com] (326): Who are they.
+
+[ori] (327): They're locals, not border patrol.
+[com] (327): They 're locals not border patrol.
+
+[ori] (328): They're fake police. Just drive around them.
+[com] (328): They 're fake police.
+
+[ori] (329): What's-What's that for?
+[com] (329): What's- What's.
+
+[ori] (330): A Cholinergic. 
+[com] (330): A Cholin LET. 
+
+[ori] (331): It's standard procedure
+[com] (331): It's standard procedure.
+
+[ori] (332): To see if your ability improves.
+[com] (332): To see if your ability improves.
+
+[ori] (333): Uh-Uh, no way. I won't do needles.
+[com] (333): Uh-Uh, no way.
+
+[ori] (334): It's the last phase of your testing.
+[com] (334): It's the phase of your testing.
+
+[ori] (335): One shot, you can go home.
+[com] (335): One shot, you can go home.
+
+[ori] (336): Fine.
+[com] (336): Fine.
+
+[ori] (337): Just make it fast.
+[com] (337): Just make fast.
+
+[ori] (338): I can't do this.
+[com] (338): I can't do this.
+
+[ori] (339): Dr. Suresh?
+[com] (339): Dr. Suresh.
+
+[ori] (340): I won't do it.
+[com] (340): I won't do.
+
+[ori] (341): If you don't, someone else will.
+[com] (341): If you don't someone else will.
+
+[ori] (342): And there's more where that came from.
+[com] (342): And there's more where that came.
+
+[ori] (343): Stop!
+[com] (343): Stop.
+
+[ori] (344): What are you doing?!
+[com] (344): What are you doing.
+
+[ori] (345): Get someone else to do your research.
+[com] (345): Get someone else else to do.
+
+[ori] (346): I'm taking Molly, and I'm leaving.
+[com] (346): I 'm taking Molly.
+
+[ori] (347): All right, boys, this is your last warning.
+[com] (347): All right, boys this is your last warning.
+
+[ori] (348): Vamanos.
+[com] (348): Vamanos.
+
+[ori] (349): We have to go. They will shoot us.
+[com] (349): We have to go.
+
+[ori] (350): Just drive, now!
+[com] (350): Just drive,!
+
+[ori] (351): No, no, no, no, no.
+[com] (351): No no no, no.
+
+[ori] (352): Let her alone.
+[com] (352): Let her alone.
+
+[ori] (353): We need to get past these men,
+[com] (353): We need to get past these men
+
+[ori] (354): These guns.
+[com] (354): These guns.
+
+[ori] (355): You can use your gift.
+[com] (355): You can use your gift.
+
+[ori] (356): No.
+[com] (356): No.
+
+[ori] (357): Drive.
+[com] (357): Drive.
+
+[ori] (358): The next time you think
+[com] (358): The next time you think.
+
+[ori] (359): Of that second helping of chunky monkey,
+[com] (359): Of second helping of chunky monkey.
+
+[ori] (360): Remember one thing.
+[com] (360): Remember one thing.
+
+[ori] (361): The sharpie doesn't lie.
+[com] (361): The sharpie doesn't lie.
+
+[ori] (362): Appearance matters, girls.
+[com] (362):  Merchant matters, girls.
+
+[ori] (363): Is this really necessary?
+[com] (363): Is this really necessary.
+
+[ori] (364): Hell, yes.
+[com] (364): Hell, yes.
+
+[ori] (365): I might have to basket catch one of these tubettes.
+[com] (365): I might have to basket catch one.
+
+[ori] (366): Debbie, can I talk to you for a minute?
+[com] (366): Debbie, can I talk to you.
+
+[ori] (367): Private function, butler.
+[com] (367): Private function butler.
+
+[ori] (368): Cheerleaders only.
+[com] (368): Cheerleaders only.
+
+[ori] (369): I'll do your biology homework for a week.
+[com] (369): I 'll do your biology homework.
+
+[ori] (370): You have five minutes.
+[com] (370): You have five.
+
+[ori] (371): I want another chance,
+[com] (371): I want.
+
+[ori] (372): Another shot at tryouts.
+[com] (372): Another shot at tryouts.
+
+[ori] (373): I appreciate the effort, really.
+[com] (373): I appreciate the effort.
+
+[ori] (374): Attempting to better your social status at school
+[com] (374): hestering to better your social status.
+
+[ori] (375): Is very American dream of you.
+[com] (375): Is very American dream.
+
+[ori] (376): But everyone has their place in this world.
+[com] (376): But everyone has their place.
+
+[ori] (377): Deal with it.
+[com] (377): Deal with it.
+
+[ori] (378): So you're not gonna change your mind?
+[com] (378): So you 're not gon gon na change.
+
+[ori] (379): You are slow, aren't you?
+[com] (379): You are slow, aren't.
+
+[ori] (380): Claire?
+[com] (380): Claire.
+
+[ori] (381): Claire?!
+[com] (381): Claire.
+
+[ori] (382): Claire?!
+[com] (382): Claire.
+
+[ori] (383): Oh, my god.
+[com] (383): Oh my god.
+
+[ori] (384): She was right there.
+[com] (384): She was there.
+
+[ori] (385): Her neck was twisted.
+[com] (385): Her neck was twisted.
+
+[ori] (386): She was bleeding.
+[com] (386): She was bleeding.
+
+[ori] (387): I went to see if I could help her,
+[com] (387): I went if I could help her.
+
+[ori] (388): And that's when he came after me.
+[com] (388): And he came after me.
+
+[ori] (389): The flying masked man?
+[com] (389): The flying man.
+
+[ori] (390): Yes!
+[com] (390): Yes.
+
+[ori] (391): I escaped, thank goodness,
+[com] (391): I escaped thank goodness.
+
+[ori] (392): But Claire was dead,
+[com] (392): But Claire was dead.
+
+[ori] (393): Right there on the steps.
+[com] (393): Right there on the steps.
+
+[ori] (394): I saw her. She's-
+[com] (394): I saw her.
+
+[ori] (395): What's going on?
+[com] (395): What's going.
+
+[ori] (396): But I saw you.
+[com] (396): But I saw.
+
+[ori] (397): That thing dropped you.
+[com] (397): That thing dropped.
+
+[ori] (398): Debbie, calm down. I'm fine.
+[com] (398): Debbie, calm down.
+
+[ori] (399): I don't supposed you saw a...
+[com] (399): I don't supposed.
+
+[ori] (400): Flying masked man this evening?
+[com] (400): Flying masked man.
+
+[ori] (401): Me? No. No.
+[com] (401): Me? No. No..
+
+[ori] (402): Uh, I was just hanging out with Debbie.
+[com] (402): Uh, I was hanging out with Debbie.
+
+[ori] (403): Find anything, Ray?
+[com] (403): Find anything.
+
+[ori] (404): No dead bodies.
+[com] (404): No dead bodies.
+
+[ori] (405): I did find this.
+[com] (405): I did find this.
+
+[ori] (406): How much have you had to drink tonight, Miss Marshall?
+[com] (406): How much have you had to drink.
+
+[ori] (407): We don't have much time.
+[com] (407): We don't have.
+
+[ori] (408): The sun will rise soon.
+[com] (408): The sun will rise soon.
+
+[ori] (409): Yaeko's father is there.
+[com] (409): Yaeko's father is there.
+
+[ori] (410): You take out the guard, we will follow.
+[com] (410): You take out the guard.
+
+[ori] (411): You've given me purpose, carp.
+[com] (411): You 've given purpose, carp.
+
+[ori] (412): I'm really a hero.
+[com] (412): I 'm a hero.
+
+[ori] (413): And more, you've made me a better man.
+[com] (413): And more, you 've made a better man.
+
+[ori] (414): Well...
+[com] (414): Well.
+
+[ori] (415): You wouldn't happen to have a swordsmith in there,
+[com] (415): You wouldn't happen to have.
+
+[ori] (416): Would you?
+[com] (416): Would you.
+
+[ori] (417): I know. It's really unfair.
+[com] (417): I know It's unfair.
+
+[ori] (418): That was easy enough.
+[com] (418): That was easy enough.
+
+[ori] (419): You must stop them.
+[com] (419): You must stop them.
+
+[ori] (420): Destroy all the guns!
+[com] (420):  mechanical the guns.
+
+[ori] (421): That is how you save Japan.
+[com] (421): That is you save Japan.
+
+[ori] (422): Very well.
+[com] (422): Very well.
+
+[ori] (423): Can I speak with you for a moment?
+[com] (423): Can I speak with you.
+
+[ori] (424): I owe you an apology.
+[com] (424): I owe an apology.
+
+[ori] (425): What I asked you to do was wrong.
+[com] (425): What I asked to do was wrong.
+
+[ori] (426): I've been with the company for 30 years.
+[com] (426): I 've been with the company.
+
+[ori] (427): We've been through a lot of turmoil
+[com] (427): We 've been through a lot of turmoil
+
+[ori] (428): And made a lot of difficult choices,
+[com] (428): And made, difficult choices.
+
+[ori] (429): Some I regret to this day.
+[com] (429): Some I regret.
+
+[ori] (430): But right now I'm dealing with someone
+[com] (430): But I 'm dealing with someone
+
+[ori] (431): Who is a real danger to us,
+[com] (431): Who is a real danger.
+
+[ori] (432): To everyone,
+[com] (432): To everyone.
+
+[ori] (433): And I'm afraid that in my haste to deal with him,
+[com] (433): And I 'm afraid that in my haste.
+
+[ori] (434): I overstepped my bounds.
+[com] (434): I overstepped my bounds.
+
+[ori] (435): The file you were holding, Adam Monroe.
+[com] (435): The file, Adam Monroe.
+
+[ori] (436): Yes.
+[com] (436): Yes onYes.
+
+[ori] (437): You're valuable to us, Dr. Suresh,
+[com] (437): You 're valuable, Suresh.
+
+[ori] (438): Not just for your blood or your knowledge,
+[com] (438): Not just for your blood, your knowledge
+
+[ori] (439): But to keep us in line.
+[com] (439): But to keep us.
+
+[ori] (440): Molly still isn't well,
+[com] (440): Molly isn't well.
+
+[ori] (441): So I can't take her away from here.
+[com] (441): So I can't take her away.
+
+[ori] (442): But you've given me no reason to trust you.
+[com] (442): But you 've given no reason to trust.
+
+[ori] (443): I know, I know.
+[com] (443): I know.
+
+[ori] (444): We both have a lot at stake.
+[com] (444): We both have a lot.
+
+[ori] (445): I have someone at my disposal,
+[com] (445): I have someone.
+
+[ori] (446): Someone who can make sure
+[com] (446): Someone who can make sure
+
+[ori] (447): There's no further misunderstandings.
+[com] (447): There's no furtherattrings.
+
+[ori] (448): Sound good?
+[com] (448): Sound good.
+
+[ori] (449): I don't really have a choice, do i?
+[com] (449): I don't have, do i.
+
+[ori] (450): Alejandro!
+[com] (450): Alejandro.
+
+[ori] (451): I will get something for your lip.
+[com] (451): I will get something.
+
+[ori] (452): I know you don't understand me.
+[com] (452): I know you don't understand.
+
+[ori] (453): But I want to tell you why I'm helping you.
+[com] (453): But I want to tell why I 'm helping.
+
+[ori] (454): It's that delicious power.
+[com] (454): It's power.
+
+[ori] (455): You see, when I get my ability back,
+[com] (455): You see when I get my ability back.
+
+[ori] (456): I'm gonna kill you...
+[com] (456): I 'm gon gon na kill.
+
+[ori] (457): And your sister.
+[com] (457): And your sister.
+
+[ori] (458): And I'm gonna take it all.
+[com] (458): And I 'm gon gon na take.
+
+[ori] (459): And if I don't get my ability back,
+[com] (459): And I don't get my ability back.
+
+[ori] (460): It's not a total loss.
+[com] (460): It's not a total loss.
+
+[ori] (461): Maya's learning quickly.
+[com] (461): Maya's learning quickly.
+
+[ori] (462): She's a shiny new toy,
+[com] (462): She's a new toy.
+
+[ori] (463): And she's all mine.
+[com] (463): And she 's.
+
+[ori] (464): I can't believe you talked me into that.
+[com] (464): I can't believe you talked.
+
+[ori] (465): What?
+[com] (465): What.
+
+[ori] (466): Somebody could have seen us.
+[com] (466): Somebody could have seen.
+
+[ori] (467): Relax. No one saw.
+[com] (467): Relax. No.
+
+[ori] (468): And no one will ever believe Debbie.
+[com] (468): And no one will believe Debbie.
+
+[ori] (469): Did you see her face?
+[com] (469): Did you see.
+
+[ori] (470): Classic.
+[com] (470): Classic.
+
+[ori] (471): Is she gonna be okay?
+[com] (471): Is she gon gon na be.
+
+[ori] (472): Definitely.
+[com] (472): Definitely.
+
+[ori] (473): She freaked, but just think of it
+[com] (473): She freaked, but think of it
+
+[ori] (474): As a lesson in humility.
+[com] (474): As a lesson in humility.
+
+[ori] (475): Claire.
+[com] (475): Claire.
+
+[ori] (476): Oh.
+[com] (476): Oh.
+
+[ori] (477): Hope I'm not interrupting.
+[com] (477): Hope I 'm not interrupting.
+
+[ori] (478): No, it's okay. How's Debbie?
+[com] (478): No, it How's Debbie.
+
+[ori] (479): She blew a. 13.
+[com] (479): She blew a.
+
+[ori] (480): Drinking on school grounds.
+[com] (480): Drinking on grounds.
+
+[ori] (481): Got suspended from the cheerleading squad
+[com] (481): Got suspended squad squad.
+
+[ori] (482): Immediately.
+[com] (482): Im catchImmediately.
+
+[ori] (483): Which means we have an opening.
+[com] (483): Which means we have an opening.
+
+[ori] (484): First practice is Monday after school.
+[com] (484): First practice is Monday.
+
+[ori] (485): You mean it? I'm on the team?
+[com] (485): You mean I 'm.
+
+[ori] (486): Sure. You were the best at try-Outs.
+[com] (486): Sure. You were at try-Outs.
+
+[ori] (487): I'll just let you two get back to...
+[com] (487): I 'll let you two get back.
+
+[ori] (488): Whatever.
+[com] (488): Whatever.
+
+[ori] (489): I'll see you Monday.
+[com] (489): I 'll see Monday.
+
+[ori] (490): Tell me something, Ivan.
+[com] (490): Tell me something.
+
+[ori] (491): In all the years I've known you,
+[com] (491): In the years I 've known you.
+
+[ori] (492): Why have you never mentioned a daughter?
+[com] (492): Why have you never mentioned.
+
+[ori] (493): This daughter.
+[com] (493): This daughter.
+
+[ori] (494): She died, didn't she?
+[com] (494): She died, didn.
+
+[ori] (495): Leukemia.
+[com] (495): Leukemia.
+
+[ori] (496): I'm so sorry.
+[com] (496): I 'm sorry.
+
+[ori] (497): That must have been so painful.
+[com] (497): That must have been painful.
+
+[ori] (498): I can't even imagine losing Claire.
+[com] (498): I can't imagine losing.
+
+[ori] (499): To think...
+[com] (499): To think.
+
+[ori] (500): All you have left of her
+[com] (500): All you have left of her
+
+[ori] (501): Are your memories.
+[com] (501): Are your memories.
+
+[ori] (502): It would be awful if they were taken.
+[com] (502): It would be awful if they were taken.
+
+[ori] (503): Almost as if she never existed.
+[com] (503): Almost as if she never existed.
+
+[ori] (504): Please don't.
+[com] (504): Please don't.
+
+[ori] (505): Take the daughter.
+[com] (505): Take the daughter.
+
+[ori] (506): Don't leave anything.
+[com] (506): Don't leave anything.
+
+[ori] (507): Wait!
+[com] (507): Wait.
+
+[ori] (508): It's in the warehouse near the train yard.
+[com] (508): It's in the warehouse near the yard.
+
+[ori] (509): Where we tagged the liquid man.
+[com] (509): Where we tagged the man.
+
+[ori] (510): You'll find your paintings there.
+[com] (510): You 'll find your paintings.
+
+[ori] (511): Thank you.
+[com] (511): Thank you.
+
+[ori] (512): Now what?
+[com] (512): Now what.
+
+[ori] (513): Your haitian friend makes sure
+[com] (513): Your haitian friend makes sure.
+
+[ori] (514): That'll I'll forget that you were ever here?
+[com] (514): That 'll forget you were ever here.
+
+[ori] (515): I wish it were that easy.
+[com] (515): I wish it were.
+
+[ori] (516): Once the company discovers your memory loss,
+[com] (516): Once, discovers your memory loss.
+
+[ori] (517): They're gonna trace it back to the haitian,
+[com] (517): They ' gon gon na trace back to the haitian.
+
+[ori] (518): Which leads to my family.
+[com] (518): Which leads in family.
+
+[ori] (519): And I can't have it.
+[com] (519): And I can't have.
+
+[ori] (520): What are you doing?
+[com] (520): What are you doing.
+
+[ori] (521): You taught me well, my friend.
+[com] (521): You taught well.
+
+[ori] (522): You said, "make it look as if you were never there. "
+[com] (522): You said, " make as if you were never there."
+
+[ori] (523): So now we weren't.
+[com] (523): So we weren't.
+
+[ori] (524): Instead, there was a simple home invasion,
+[com] (524): Instead, there was a simple home invasion.
+
+[ori] (525): A senseless murder.
+[com] (525): A senseless murder.
+
+[ori] (526): I am offering you a way out.
+[com] (526): I am offering a way out.
+
+[ori] (527): You can stop running!
+[com] (527): You can stop running.
+
+[ori] (528): Shoot me and there is no turning back.
+[com] (528): Shoot me is no turning back.
+
+[ori] (529): You'll condemn yourself to hell.
+[com] (529): You 'll condemn.
+
+[ori] (530): I know.
+[com] (530): I know.
+
+[ori] (531): Kensei, I've been searching for hours.
+[com] (531): Kensei, I 've been searching.
+
+[ori] (532): Come, my friend.
+[com] (532): Come, my friend.
+
+[ori] (533): We must go back and destroy Whitebeard's guns.
+[com] (533): We must go and destroy Whitebeard.
+
+[ori] (534): If you want to stop him, do it yourself.
+[com] (534): If you want to stop him.
+
+[ori] (535): Something wrong?
+[com] (535): Something wrong.
+
+[ori] (536): I saw you, Hiro.
+[com] (536): I saw, Hiro.
+
+[ori] (537): After I saved the swordsmith,
+[com] (537): After I saved the swordsmith
+
+[ori] (538): I came after you,
+[com] (538): I came after you.
+
+[ori] (539): Afraid something had happened to Yaeko,
+[com] (539): Afraid something had happened.
+
+[ori] (540): Because I love her.
+[com] (540): Because I love.
+
+[ori] (541): And you, friend, betrayed me.
+[com] (541): And you betrayed me.
+
+[ori] (542): - No. - Yes. You kissed her.
+[com] (542): - No. - Yes. You kissed.
+
+[ori] (543): It happened...
+[com] (543): It happened.
+
+[ori] (544): By accident.
+[com] (544): By accident.
+
+[ori] (545): You accidentally kissed her?
+[com] (545): You accidentally kissed.
+
+[ori] (546): I accidentally
+[com] (546): I accidentally accidentally
+
+[ori] (547): Fell in love with her,
+[com] (547): Fell, with her,
+
+[ori] (548): And she with me.
+[com] (548): And she with me.
+
+[ori] (549): I'm so sorry.
+[com] (549): I 'm sorry.
+
+[ori] (550): So you've been lying to me all along.
+[com] (550): So you 've been lying to me.
+
+[ori] (551): First you show me that I can be harmed by no weapon,
+[com] (551): First you show me I can be harmed.
+
+[ori] (552): And then you cut me deeper than any blade possibly could.
+[com] (552): And you cut deeper than any blade could.
+
+[ori] (553): She's your princess, Kensei.
+[com] (553): She your princess, Kensei.
+
+[ori] (554): I know that.
+[com] (554): I know.
+
+[ori] (555): And I swear I will not give in to love.
+[com] (555): I swear I will not give in to love.
+
+[ori] (556): That kiss will be our last.
+[com] (556): That kiss will be.
+
+[ori] (557): But the fate of the world still rests in our hands.
+[com] (557): But still rests in our hands.
+
+[ori] (558): We must stop Whitebeard.
+[com] (558): We must stop Whitebeard.
+
+[ori] (559): All right, carp.
+[com] (559): All right, carp.
+
+[ori] (560): Let's go.
+[com] (560): Let's go.
+
+[ori] (561): You're covered at work and at home,
+[com] (561): You 're covered at work.
+
+[ori] (562): An impromptu burger bonanza
+[com] (562): An impromptu burger bonanza.
+
+[ori] (563): Training seminar at corporate.
+[com] (563):  counselor seminar.
+
+[ori] (564): Here.
+[com] (564): Here.
+
+[ori] (565): What's this?
+[com] (565): What's this.
+
+[ori] (566): Information. Phone numbers.
+[com] (566): Information. Phone numbers.
+
+[ori] (567): If you have any questions or concerns,
+[com] (567): If you have any questions or concerns
+
+[ori] (568): I want you to call us anytime, day or night.
+[com] (568): I want to call.
+
+[ori] (569): Also, here.
+[com] (569): Also, monster.
+
+[ori] (570): It's fully loaded.
+[com] (570): It's loaded.
+
+[ori] (571): Anything from martial arts to plumbing,
+[com] (571): Anything from martial arts.
+
+[ori] (572): Any skill you want is now at your fingertips.
+[com] (572): Any skill you want is.
+
+[ori] (573): Wow.
+[com] (573):  savingWow.
+
+[ori] (574): Support, advice, and now gifts.
+[com] (574): Support advice, and gifts.
+
+[ori] (575): You're like my own personal Oprah.
+[com] (575): You 're like my Oprah.
+
+[ori] (576): You have an amazing gift.
+[com] (576): You have an gift.
+
+[ori] (577): So look around.
+[com] (577): So look around.
+
+[ori] (578): Seems to me like this town could use a little amazing.
+[com] (578): Seems could use a amazing.
+
+[ori] (579): Thanks.
+[com] (579): Thanks.
+
+[ori] (580): Right.
+[com] (580): Right.
+
+[ori] (581): Hello, Dr. Suresh.
+[com] (581): Hello, Suresh.
+
+[ori] (582): Niki?
+[com] (582): Niki.
+
+[ori] (583): How are you?
+[com] (583): How are you.
+
+[ori] (584): I'm feeling better now.
+[com] (584): I 'm feeling better now.
+
+[ori] (585): Back to my old self, thanks to the company.
+[com] (585): Back to my old self
+
+[ori] (586): In fact, I'm gonna be working with them
+[com] (586): In fact, I 'm gon na be working.
+
+[ori] (587): For a while.
+[com] (587): For while.
+
+[ori] (588): So you're-
+[com] (588): So you're-
+
+[ori] (589): Your new partner.
+[com] (589): Your partner.
+
+[ori] (590): I know.
+[com] (590): I know.
+
+[ori] (591): It's the last place that I expected to be,
+[com] (591): It's the last place I expected.
+
+[ori] (592): But... i owe these people so much.
+[com] (592): But... i owe people.
+
+[ori] (593): Bob told me that you two were having
+[com] (593): Bob told you two were having.
+
+[ori] (594): Some trust issues.
+[com] (594): Some trust issues.
+
+[ori] (595): He just wants me to make sure
+[com] (595): He wants to make sure
+
+[ori] (596): That there's no more misunderstandings.
+[com] (596): That there's no moreattrings.
+
+[ori] (597): That's okay, isn't it?
+[com] (597): That's, isn't.
+
+[ori] (598): What does it mean?
+[com] (598): What does it mean.
+
+[ori] (599): Are you ready?
+[com] (599): Are you ready.
+
+[ori] (600): Yeah.
+[com] (600): Yeah.
+
+[ori] (601): What is this place?
+[com] (601): What is this place.
+
+[ori] (602): I don't know.
+[com] (602): I don't know.
+
+[ori] (603): Someone knew I was coming.
+[com] (603): Someone knew I was.
+
+[ori] (604): "We were right about the Company.
+[com] (604): "We were right about the Company.
+
+[ori] (605): "The world is in danger.
+[com] (605): "The world is in danger.
+
+[ori] (606): It's up to us. Adam. "
+[com] (606): It's up to us.
+
+[ori] (607): The name Adam doesn't ring a bell?
+[com] (607): The name Adam doesn't ring a bell.
+
+[ori] (608): No, and I don't know about any Company.
+[com] (608): No and I don't know.
+
+[ori] (609): I don't know about any of this.
+[com] (609): I don't know.
+
+[ori] (610): "The world is in danger. "
+[com] (610): "The world is in danger.
+
+[ori] (611): What am i supposed to do?
+[com] (611): What am i supposed.
+
+[ori] (612): We'll figure it out.
+[com] (612): We 'll figure out.
+
+[ori] (613): Please tell me who I am,
+[com] (613): Please tell who I am.
+
+[ori] (614): What the future holds.
+[com] (614): What the future holds.
+
+[ori] (615): Peter, how did we-
+[com] (615): Peter, how did we-
+
+[ori] (616): I don't know.
+[com] (616): I don't know.
+
+[ori] (617): We're in New York.
+[com] (617): We're in New York.
+
+[ori] (618): Where is everyone?
+[com] (618): Where is everyone.
+
+[ori] (619): It's an evacuation order.
+[com] (619): It's an evacuation order.
+
+[ori] (620): June 14, 2008.
+[com] (620): June 14 2008.
+
+[ori] (621): This is next year.
+[com] (621): This is year.
+
